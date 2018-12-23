@@ -1,0 +1,1620 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<records>
+  <entity1091 ctype="Bro7" r="9" c="5">
+    <round1 state="LIVE" hp="120" posr="9" posc="6" dr="0" dc="1"/>
+    <round2 state="LIVE" hp="120" posr="9" posc="6" dr="0" dc="0"/>
+    <round3 state="LIVE" hp="120" posr="8" posc="8" dr="-1" dc="2">
+      <target tid="2054"/>
+    </round3>
+    <round4 state="LIVE" hp="62" posr="8" posc="8" dr="0" dc="0"/>
+    <round5 state="LIVE" hp="62" posr="7" posc="6" dr="-1" dc="-2">
+      <target tid="2129"/>
+    </round5>
+    <round6 state="LIVE" hp="36" posr="7" posc="6" dr="0" dc="0"/>
+    <round7 state="LIVE" hp="104" posr="6" posc="5" dr="-1" dc="-1">
+      <target tid="2074"/>
+    </round7>
+    <round8 state="LIVE" hp="90" posr="6" posc="5" dr="0" dc="0"/>
+    <round9 state="LIVE" hp="90" posr="7" posc="3" dr="1" dc="-2">
+      <target tid="2130"/>
+    </round9>
+    <round10 state="LIVE" hp="84" posr="7" posc="3" dr="0" dc="0"/>
+    <round11 state="LIVE" hp="84" posr="9" posc="2" dr="2" dc="-1">
+      <target tid="2111"/>
+    </round11>
+    <round12 state="LIVE" hp="78" posr="9" posc="2" dr="0" dc="0"/>
+    <round13 state="LIVE" hp="78" posr="11" posc="4" dr="2" dc="2">
+      <target tid="2090"/>
+    </round13>
+    <round14 state="LIVE" hp="46" posr="11" posc="4" dr="0" dc="0"/>
+    <round15 state="LIVE" hp="46" posr="9" posc="6" dr="-2" dc="2">
+      <target tid="2091"/>
+    </round15>
+    <round16 state="LIVE" hp="14" posr="9" posc="6" dr="0" dc="0"/>
+    <round17 state="LIVE" hp="51" posr="8" posc="6" dr="-1" dc="0">
+      <target tid="2005"/>
+    </round17>
+    <round18 state="LIVE" hp="5" posr="8" posc="6" dr="0" dc="0"/>
+    <round19 state="LIVE" hp="5" posr="7" posc="4" dr="-1" dc="-2">
+      <target tid="2073"/>
+    </round19>
+    <round20 state="DEAD" hp="0" posr="7" posc="4" dr="0" dc="0"/>
+    <round21 state="DEAD" hp="0" posr="7" posc="4" dr="0" dc="0"/>
+    <round22 state="DEAD" hp="0" posr="7" posc="4" dr="0" dc="0"/>
+    <round23 state="DEAD" hp="0" posr="7" posc="4" dr="0" dc="0"/>
+    <round24 state="DEAD" hp="0" posr="7" posc="4" dr="0" dc="0"/>
+    <round25 state="DEAD" hp="0" posr="7" posc="4" dr="0" dc="0"/>
+    <round26 state="DEAD" hp="0" posr="7" posc="4" dr="0" dc="0"/>
+    <round27 state="DEAD" hp="0" posr="7" posc="4" dr="0" dc="0"/>
+    <round28 state="DEAD" hp="0" posr="7" posc="4" dr="0" dc="0"/>
+    <round29 state="DEAD" hp="0" posr="7" posc="4" dr="0" dc="0"/>
+    <round30 state="DEAD" hp="0" posr="7" posc="4" dr="0" dc="0"/>
+    <round31 state="DEAD" hp="0" posr="7" posc="4" dr="0" dc="0"/>
+    <round32 state="DEAD" hp="0" posr="7" posc="4" dr="0" dc="0"/>
+    <round33 state="DEAD" hp="0" posr="7" posc="4" dr="0" dc="0"/>
+    <round34 state="DEAD" hp="0" posr="7" posc="4" dr="0" dc="0"/>
+    <round35 state="DEAD" hp="0" posr="7" posc="4" dr="0" dc="0"/>
+    <round36 state="DEAD" hp="0" posr="7" posc="4" dr="0" dc="0"/>
+    <round37 state="DEAD" hp="0" posr="7" posc="4" dr="0" dc="0"/>
+    <round38 state="DEAD" hp="0" posr="7" posc="4" dr="0" dc="0"/>
+    <round39 state="DEAD" hp="0" posr="7" posc="4" dr="0" dc="0"/>
+    <round40 state="DEAD" hp="0" posr="7" posc="4" dr="0" dc="0"/>
+    <round41 state="DEAD" hp="0" posr="7" posc="4" dr="0" dc="0"/>
+  </entity1091>
+  <entity2054 ctype="Mons" r="6" c="10">
+    <round1 state="LIVE" hp="80" posr="6" posc="10" dr="0" dc="0"/>
+    <round2 state="LIVE" hp="90" posr="6" posc="9" dr="0" dc="-1"/>
+    <round3 state="DEAD" hp="0" posr="6" posc="9" dr="0" dc="0"/>
+    <round4 state="DEAD" hp="0" posr="6" posc="9" dr="0" dc="0"/>
+    <round5 state="DEAD" hp="0" posr="6" posc="9" dr="0" dc="0"/>
+    <round6 state="DEAD" hp="0" posr="6" posc="9" dr="0" dc="0"/>
+    <round7 state="DEAD" hp="0" posr="6" posc="9" dr="0" dc="0"/>
+    <round8 state="DEAD" hp="0" posr="6" posc="9" dr="0" dc="0"/>
+    <round9 state="DEAD" hp="0" posr="6" posc="9" dr="0" dc="0"/>
+    <round10 state="DEAD" hp="0" posr="6" posc="9" dr="0" dc="0"/>
+    <round11 state="DEAD" hp="0" posr="6" posc="9" dr="0" dc="0"/>
+    <round12 state="DEAD" hp="0" posr="6" posc="9" dr="0" dc="0"/>
+    <round13 state="DEAD" hp="0" posr="6" posc="9" dr="0" dc="0"/>
+    <round14 state="DEAD" hp="0" posr="6" posc="9" dr="0" dc="0"/>
+    <round15 state="DEAD" hp="0" posr="6" posc="9" dr="0" dc="0"/>
+    <round16 state="DEAD" hp="0" posr="6" posc="9" dr="0" dc="0"/>
+    <round17 state="DEAD" hp="0" posr="6" posc="9" dr="0" dc="0"/>
+    <round18 state="DEAD" hp="0" posr="6" posc="9" dr="0" dc="0"/>
+    <round19 state="DEAD" hp="0" posr="6" posc="9" dr="0" dc="0"/>
+    <round20 state="DEAD" hp="0" posr="6" posc="9" dr="0" dc="0"/>
+    <round21 state="DEAD" hp="0" posr="6" posc="9" dr="0" dc="0"/>
+    <round22 state="DEAD" hp="0" posr="6" posc="9" dr="0" dc="0"/>
+    <round23 state="DEAD" hp="0" posr="6" posc="9" dr="0" dc="0"/>
+    <round24 state="DEAD" hp="0" posr="6" posc="9" dr="0" dc="0"/>
+    <round25 state="DEAD" hp="0" posr="6" posc="9" dr="0" dc="0"/>
+    <round26 state="DEAD" hp="0" posr="6" posc="9" dr="0" dc="0"/>
+    <round27 state="DEAD" hp="0" posr="6" posc="9" dr="0" dc="0"/>
+    <round28 state="DEAD" hp="0" posr="6" posc="9" dr="0" dc="0"/>
+    <round29 state="DEAD" hp="0" posr="6" posc="9" dr="0" dc="0"/>
+    <round30 state="DEAD" hp="0" posr="6" posc="9" dr="0" dc="0"/>
+    <round31 state="DEAD" hp="0" posr="6" posc="9" dr="0" dc="0"/>
+    <round32 state="DEAD" hp="0" posr="6" posc="9" dr="0" dc="0"/>
+    <round33 state="DEAD" hp="0" posr="6" posc="9" dr="0" dc="0"/>
+    <round34 state="DEAD" hp="0" posr="6" posc="9" dr="0" dc="0"/>
+    <round35 state="DEAD" hp="0" posr="6" posc="9" dr="0" dc="0"/>
+    <round36 state="DEAD" hp="0" posr="6" posc="9" dr="0" dc="0"/>
+    <round37 state="DEAD" hp="0" posr="6" posc="9" dr="0" dc="0"/>
+    <round38 state="DEAD" hp="0" posr="6" posc="9" dr="0" dc="0"/>
+    <round39 state="DEAD" hp="0" posr="6" posc="9" dr="0" dc="0"/>
+    <round40 state="DEAD" hp="0" posr="6" posc="9" dr="0" dc="0"/>
+    <round41 state="DEAD" hp="0" posr="6" posc="9" dr="0" dc="0"/>
+  </entity2054>
+  <entity2055 ctype="Mons" r="6" c="11">
+    <round1 state="LIVE" hp="110" posr="6" posc="11" dr="0" dc="0"/>
+    <round2 state="LIVE" hp="120" posr="6" posc="10" dr="0" dc="-1"/>
+    <round3 state="LIVE" hp="80" posr="6" posc="10" dr="0" dc="0"/>
+    <round4 state="LIVE" hp="90" posr="3" posc="10" dr="-3" dc="0">
+      <target tid="1091"/>
+      <target tid="1055"/>
+    </round4>
+    <round5 state="LIVE" hp="4" posr="3" posc="10" dr="0" dc="0"/>
+    <round6 state="LIVE" hp="14" posr="5" posc="11" dr="2" dc="1"/>
+    <round7 state="DEAD" hp="0" posr="5" posc="11" dr="0" dc="0"/>
+    <round8 state="DEAD" hp="0" posr="5" posc="11" dr="0" dc="0"/>
+    <round9 state="DEAD" hp="0" posr="5" posc="11" dr="0" dc="0"/>
+    <round10 state="DEAD" hp="0" posr="5" posc="11" dr="0" dc="0"/>
+    <round11 state="DEAD" hp="0" posr="5" posc="11" dr="0" dc="0"/>
+    <round12 state="DEAD" hp="0" posr="5" posc="11" dr="0" dc="0"/>
+    <round13 state="DEAD" hp="0" posr="5" posc="11" dr="0" dc="0"/>
+    <round14 state="DEAD" hp="0" posr="5" posc="11" dr="0" dc="0"/>
+    <round15 state="DEAD" hp="0" posr="5" posc="11" dr="0" dc="0"/>
+    <round16 state="DEAD" hp="0" posr="5" posc="11" dr="0" dc="0"/>
+    <round17 state="DEAD" hp="0" posr="5" posc="11" dr="0" dc="0"/>
+    <round18 state="DEAD" hp="0" posr="5" posc="11" dr="0" dc="0"/>
+    <round19 state="DEAD" hp="0" posr="5" posc="11" dr="0" dc="0"/>
+    <round20 state="DEAD" hp="0" posr="5" posc="11" dr="0" dc="0"/>
+    <round21 state="DEAD" hp="0" posr="5" posc="11" dr="0" dc="0"/>
+    <round22 state="DEAD" hp="0" posr="5" posc="11" dr="0" dc="0"/>
+    <round23 state="DEAD" hp="0" posr="5" posc="11" dr="0" dc="0"/>
+    <round24 state="DEAD" hp="0" posr="5" posc="11" dr="0" dc="0"/>
+    <round25 state="DEAD" hp="0" posr="5" posc="11" dr="0" dc="0"/>
+    <round26 state="DEAD" hp="0" posr="5" posc="11" dr="0" dc="0"/>
+    <round27 state="DEAD" hp="0" posr="5" posc="11" dr="0" dc="0"/>
+    <round28 state="DEAD" hp="0" posr="5" posc="11" dr="0" dc="0"/>
+    <round29 state="DEAD" hp="0" posr="5" posc="11" dr="0" dc="0"/>
+    <round30 state="DEAD" hp="0" posr="5" posc="11" dr="0" dc="0"/>
+    <round31 state="DEAD" hp="0" posr="5" posc="11" dr="0" dc="0"/>
+    <round32 state="DEAD" hp="0" posr="5" posc="11" dr="0" dc="0"/>
+    <round33 state="DEAD" hp="0" posr="5" posc="11" dr="0" dc="0"/>
+    <round34 state="DEAD" hp="0" posr="5" posc="11" dr="0" dc="0"/>
+    <round35 state="DEAD" hp="0" posr="5" posc="11" dr="0" dc="0"/>
+    <round36 state="DEAD" hp="0" posr="5" posc="11" dr="0" dc="0"/>
+    <round37 state="DEAD" hp="0" posr="5" posc="11" dr="0" dc="0"/>
+    <round38 state="DEAD" hp="0" posr="5" posc="11" dr="0" dc="0"/>
+    <round39 state="DEAD" hp="0" posr="5" posc="11" dr="0" dc="0"/>
+    <round40 state="DEAD" hp="0" posr="5" posc="11" dr="0" dc="0"/>
+    <round41 state="DEAD" hp="0" posr="5" posc="11" dr="0" dc="0"/>
+  </entity2055>
+  <entity2056 ctype="Mons" r="6" c="12">
+    <round1 state="LIVE" hp="120" posr="6" posc="12" dr="0" dc="0"/>
+    <round2 state="LIVE" hp="120" posr="6" posc="11" dr="0" dc="-1"/>
+    <round3 state="LIVE" hp="110" posr="6" posc="11" dr="0" dc="0"/>
+    <round4 state="LIVE" hp="120" posr="3" posc="12" dr="-3" dc="1">
+      <target tid="1055"/>
+    </round4>
+    <round5 state="LIVE" hp="120" posr="3" posc="12" dr="0" dc="0"/>
+    <round6 state="LIVE" hp="120" posr="4" posc="15" dr="1" dc="3">
+      <target tid="1055"/>
+    </round6>
+    <round7 state="LIVE" hp="120" posr="4" posc="15" dr="0" dc="0"/>
+    <round8 state="LIVE" hp="120" posr="5" posc="14" dr="1" dc="-1"/>
+    <round9 state="LIVE" hp="48" posr="5" posc="14" dr="0" dc="0"/>
+    <round10 state="LIVE" hp="58" posr="6" posc="11" dr="1" dc="-3"/>
+    <round11 state="LIVE" hp="28" posr="6" posc="11" dr="0" dc="0"/>
+    <round12 state="LIVE" hp="38" posr="8" posc="13" dr="2" dc="2">
+      <target tid="1000"/>
+    </round12>
+    <round13 state="LIVE" hp="8" posr="8" posc="13" dr="0" dc="0"/>
+    <round14 state="LIVE" hp="8" posr="10" posc="10" dr="2" dc="-3">
+      <target tid="1072"/>
+      <target tid="1000"/>
+    </round14>
+    <round15 state="DEAD" hp="0" posr="10" posc="10" dr="0" dc="0"/>
+    <round16 state="DEAD" hp="0" posr="10" posc="10" dr="0" dc="0"/>
+    <round17 state="DEAD" hp="0" posr="10" posc="10" dr="0" dc="0"/>
+    <round18 state="DEAD" hp="0" posr="10" posc="10" dr="0" dc="0"/>
+    <round19 state="DEAD" hp="0" posr="10" posc="10" dr="0" dc="0"/>
+    <round20 state="DEAD" hp="0" posr="10" posc="10" dr="0" dc="0"/>
+    <round21 state="DEAD" hp="0" posr="10" posc="10" dr="0" dc="0"/>
+    <round22 state="DEAD" hp="0" posr="10" posc="10" dr="0" dc="0"/>
+    <round23 state="DEAD" hp="0" posr="10" posc="10" dr="0" dc="0"/>
+    <round24 state="DEAD" hp="0" posr="10" posc="10" dr="0" dc="0"/>
+    <round25 state="DEAD" hp="0" posr="10" posc="10" dr="0" dc="0"/>
+    <round26 state="DEAD" hp="0" posr="10" posc="10" dr="0" dc="0"/>
+    <round27 state="DEAD" hp="0" posr="10" posc="10" dr="0" dc="0"/>
+    <round28 state="DEAD" hp="0" posr="10" posc="10" dr="0" dc="0"/>
+    <round29 state="DEAD" hp="0" posr="10" posc="10" dr="0" dc="0"/>
+    <round30 state="DEAD" hp="0" posr="10" posc="10" dr="0" dc="0"/>
+    <round31 state="DEAD" hp="0" posr="10" posc="10" dr="0" dc="0"/>
+    <round32 state="DEAD" hp="0" posr="10" posc="10" dr="0" dc="0"/>
+    <round33 state="DEAD" hp="0" posr="10" posc="10" dr="0" dc="0"/>
+    <round34 state="DEAD" hp="0" posr="10" posc="10" dr="0" dc="0"/>
+    <round35 state="DEAD" hp="0" posr="10" posc="10" dr="0" dc="0"/>
+    <round36 state="DEAD" hp="0" posr="10" posc="10" dr="0" dc="0"/>
+    <round37 state="DEAD" hp="0" posr="10" posc="10" dr="0" dc="0"/>
+    <round38 state="DEAD" hp="0" posr="10" posc="10" dr="0" dc="0"/>
+    <round39 state="DEAD" hp="0" posr="10" posc="10" dr="0" dc="0"/>
+    <round40 state="DEAD" hp="0" posr="10" posc="10" dr="0" dc="0"/>
+    <round41 state="DEAD" hp="0" posr="10" posc="10" dr="0" dc="0"/>
+  </entity2056>
+  <entity1036 ctype="Bro2" r="6" c="4">
+    <round1 state="LIVE" hp="80" posr="6" posc="5" dr="0" dc="1">
+      <target tid="2054"/>
+      <target tid="2073"/>
+      <target tid="2072"/>
+      <target tid="2055"/>
+    </round1>
+    <round2 state="LIVE" hp="80" posr="6" posc="5" dr="0" dc="0"/>
+    <round3 state="LIVE" hp="80" posr="5" posc="4" dr="-1" dc="-1">
+      <target tid="2054"/>
+      <target tid="2129"/>
+      <target tid="2056"/>
+      <target tid="2055"/>
+    </round3>
+    <round4 state="LIVE" hp="80" posr="5" posc="4" dr="0" dc="0"/>
+    <round5 state="LIVE" hp="80" posr="4" posc="3" dr="-1" dc="-1">
+      <target tid="2129"/>
+      <target tid="2130"/>
+      <target tid="2055"/>
+      <target tid="2005"/>
+    </round5>
+    <round6 state="LIVE" hp="80" posr="4" posc="3" dr="0" dc="0"/>
+    <round7 state="LIVE" hp="80" posr="4" posc="2" dr="0" dc="-1">
+      <target tid="2074"/>
+      <target tid="2129"/>
+      <target tid="2021"/>
+      <target tid="2072"/>
+    </round7>
+    <round8 state="LIVE" hp="80" posr="4" posc="2" dr="0" dc="0"/>
+    <round9 state="LIVE" hp="80" posr="3" posc="3" dr="-1" dc="1">
+      <target tid="2021"/>
+      <target tid="2073"/>
+      <target tid="2130"/>
+      <target tid="2072"/>
+    </round9>
+    <round10 state="LIVE" hp="80" posr="3" posc="3" dr="0" dc="0"/>
+    <round11 state="LIVE" hp="80" posr="4" posc="4" dr="1" dc="1">
+      <target tid="2092"/>
+      <target tid="2149"/>
+      <target tid="2073"/>
+      <target tid="2005"/>
+    </round11>
+    <round12 state="LIVE" hp="80" posr="4" posc="4" dr="0" dc="0"/>
+    <round13 state="LIVE" hp="80" posr="3" posc="3" dr="-1" dc="-1">
+      <target tid="2090"/>
+      <target tid="2149"/>
+      <target tid="2022"/>
+      <target tid="2005"/>
+    </round13>
+    <round14 state="LIVE" hp="80" posr="3" posc="3" dr="0" dc="0"/>
+    <round15 state="LIVE" hp="80" posr="2" posc="3" dr="-1" dc="0">
+      <target tid="2038"/>
+      <target tid="2056"/>
+      <target tid="2091"/>
+      <target tid="2005"/>
+    </round15>
+    <round16 state="LIVE" hp="80" posr="2" posc="3" dr="0" dc="0"/>
+    <round17 state="LIVE" hp="80" posr="3" posc="3" dr="1" dc="0">
+      <target tid="2074"/>
+    </round17>
+    <round18 state="LIVE" hp="80" posr="3" posc="3" dr="0" dc="0"/>
+    <round19 state="LIVE" hp="80" posr="3" posc="2" dr="0" dc="-1">
+      <target tid="2092"/>
+      <target tid="2074"/>
+      <target tid="2038"/>
+      <target tid="2039"/>
+    </round19>
+    <round20 state="LIVE" hp="80" posr="3" posc="2" dr="0" dc="0"/>
+    <round21 state="LIVE" hp="80" posr="3" posc="3" dr="0" dc="1">
+      <target tid="2092"/>
+      <target tid="2074"/>
+      <target tid="2038"/>
+      <target tid="2039"/>
+    </round21>
+    <round22 state="LIVE" hp="80" posr="3" posc="3" dr="0" dc="0"/>
+    <round23 state="LIVE" hp="80" posr="2" posc="3" dr="-1" dc="0">
+      <target tid="2074"/>
+      <target tid="2038"/>
+      <target tid="2022"/>
+      <target tid="2039"/>
+    </round23>
+    <round24 state="LIVE" hp="66" posr="2" posc="3" dr="0" dc="0"/>
+    <round25 state="LIVE" hp="66" posr="2" posc="2" dr="0" dc="-1">
+      <target tid="2074"/>
+      <target tid="2038"/>
+      <target tid="2022"/>
+      <target tid="2039"/>
+    </round25>
+    <round26 state="LIVE" hp="46" posr="2" posc="2" dr="0" dc="0"/>
+    <round27 state="LIVE" hp="46" posr="3" posc="2" dr="1" dc="0">
+      <target tid="2074"/>
+      <target tid="2038"/>
+      <target tid="2022"/>
+      <target tid="2039"/>
+    </round27>
+    <round28 state="LIVE" hp="14" posr="3" posc="2" dr="0" dc="0"/>
+    <round29 state="LIVE" hp="14" posr="3" posc="3" dr="0" dc="1">
+      <target tid="2074"/>
+      <target tid="2038"/>
+      <target tid="2022"/>
+      <target tid="2039"/>
+    </round29>
+    <round30 state="DEAD" hp="0" posr="3" posc="3" dr="0" dc="0"/>
+    <round31 state="DEAD" hp="0" posr="3" posc="3" dr="0" dc="0"/>
+    <round32 state="DEAD" hp="0" posr="3" posc="3" dr="0" dc="0"/>
+    <round33 state="DEAD" hp="0" posr="3" posc="3" dr="0" dc="0"/>
+    <round34 state="DEAD" hp="0" posr="3" posc="3" dr="0" dc="0"/>
+    <round35 state="DEAD" hp="0" posr="3" posc="3" dr="0" dc="0"/>
+    <round36 state="DEAD" hp="0" posr="3" posc="3" dr="0" dc="0"/>
+    <round37 state="DEAD" hp="0" posr="3" posc="3" dr="0" dc="0"/>
+    <round38 state="DEAD" hp="0" posr="3" posc="3" dr="0" dc="0"/>
+    <round39 state="DEAD" hp="0" posr="3" posc="3" dr="0" dc="0"/>
+    <round40 state="DEAD" hp="0" posr="3" posc="3" dr="0" dc="0"/>
+    <round41 state="DEAD" hp="0" posr="3" posc="3" dr="0" dc="0"/>
+  </entity1036>
+  <entity2129 ctype="Mons" r="10" c="13">
+    <round1 state="LIVE" hp="120" posr="10" posc="13" dr="0" dc="0"/>
+    <round2 state="LIVE" hp="120" posr="10" posc="12" dr="0" dc="-1"/>
+    <round3 state="LIVE" hp="110" posr="10" posc="12" dr="0" dc="0"/>
+    <round4 state="LIVE" hp="120" posr="9" posc="9" dr="-1" dc="-3"/>
+    <round5 state="LIVE" hp="15" posr="9" posc="9" dr="0" dc="0"/>
+    <round6 state="LIVE" hp="25" posr="11" posc="10" dr="2" dc="1">
+      <target tid="1000"/>
+      <target tid="1127"/>
+    </round6>
+    <round7 state="DEAD" hp="0" posr="11" posc="10" dr="0" dc="0"/>
+    <round8 state="DEAD" hp="0" posr="11" posc="10" dr="0" dc="0"/>
+    <round9 state="DEAD" hp="0" posr="11" posc="10" dr="0" dc="0"/>
+    <round10 state="DEAD" hp="0" posr="11" posc="10" dr="0" dc="0"/>
+    <round11 state="DEAD" hp="0" posr="11" posc="10" dr="0" dc="0"/>
+    <round12 state="DEAD" hp="0" posr="11" posc="10" dr="0" dc="0"/>
+    <round13 state="DEAD" hp="0" posr="11" posc="10" dr="0" dc="0"/>
+    <round14 state="DEAD" hp="0" posr="11" posc="10" dr="0" dc="0"/>
+    <round15 state="DEAD" hp="0" posr="11" posc="10" dr="0" dc="0"/>
+    <round16 state="DEAD" hp="0" posr="11" posc="10" dr="0" dc="0"/>
+    <round17 state="DEAD" hp="0" posr="11" posc="10" dr="0" dc="0"/>
+    <round18 state="DEAD" hp="0" posr="11" posc="10" dr="0" dc="0"/>
+    <round19 state="DEAD" hp="0" posr="11" posc="10" dr="0" dc="0"/>
+    <round20 state="DEAD" hp="0" posr="11" posc="10" dr="0" dc="0"/>
+    <round21 state="DEAD" hp="0" posr="11" posc="10" dr="0" dc="0"/>
+    <round22 state="DEAD" hp="0" posr="11" posc="10" dr="0" dc="0"/>
+    <round23 state="DEAD" hp="0" posr="11" posc="10" dr="0" dc="0"/>
+    <round24 state="DEAD" hp="0" posr="11" posc="10" dr="0" dc="0"/>
+    <round25 state="DEAD" hp="0" posr="11" posc="10" dr="0" dc="0"/>
+    <round26 state="DEAD" hp="0" posr="11" posc="10" dr="0" dc="0"/>
+    <round27 state="DEAD" hp="0" posr="11" posc="10" dr="0" dc="0"/>
+    <round28 state="DEAD" hp="0" posr="11" posc="10" dr="0" dc="0"/>
+    <round29 state="DEAD" hp="0" posr="11" posc="10" dr="0" dc="0"/>
+    <round30 state="DEAD" hp="0" posr="11" posc="10" dr="0" dc="0"/>
+    <round31 state="DEAD" hp="0" posr="11" posc="10" dr="0" dc="0"/>
+    <round32 state="DEAD" hp="0" posr="11" posc="10" dr="0" dc="0"/>
+    <round33 state="DEAD" hp="0" posr="11" posc="10" dr="0" dc="0"/>
+    <round34 state="DEAD" hp="0" posr="11" posc="10" dr="0" dc="0"/>
+    <round35 state="DEAD" hp="0" posr="11" posc="10" dr="0" dc="0"/>
+    <round36 state="DEAD" hp="0" posr="11" posc="10" dr="0" dc="0"/>
+    <round37 state="DEAD" hp="0" posr="11" posc="10" dr="0" dc="0"/>
+    <round38 state="DEAD" hp="0" posr="11" posc="10" dr="0" dc="0"/>
+    <round39 state="DEAD" hp="0" posr="11" posc="10" dr="0" dc="0"/>
+    <round40 state="DEAD" hp="0" posr="11" posc="10" dr="0" dc="0"/>
+    <round41 state="DEAD" hp="0" posr="11" posc="10" dr="0" dc="0"/>
+  </entity2129>
+  <entity2130 ctype="Mons" r="10" c="14">
+    <round1 state="LIVE" hp="120" posr="10" posc="14" dr="0" dc="0"/>
+    <round2 state="LIVE" hp="120" posr="10" posc="13" dr="0" dc="-1"/>
+    <round3 state="LIVE" hp="120" posr="10" posc="13" dr="0" dc="0"/>
+    <round4 state="LIVE" hp="120" posr="10" posc="10" dr="0" dc="-3"/>
+    <round5 state="LIVE" hp="80" posr="10" posc="10" dr="0" dc="0"/>
+    <round6 state="LIVE" hp="90" posr="12" posc="7" dr="2" dc="-3">
+      <target tid="1072"/>
+      <target tid="1127"/>
+    </round6>
+    <round7 state="LIVE" hp="50" posr="12" posc="7" dr="0" dc="0"/>
+    <round8 state="LIVE" hp="60" posr="9" posc="8" dr="-3" dc="1">
+      <target tid="1072"/>
+      <target tid="1127"/>
+    </round8>
+    <round9 state="DEAD" hp="0" posr="9" posc="8" dr="0" dc="0"/>
+    <round10 state="DEAD" hp="0" posr="9" posc="8" dr="0" dc="0"/>
+    <round11 state="DEAD" hp="0" posr="9" posc="8" dr="0" dc="0"/>
+    <round12 state="DEAD" hp="0" posr="9" posc="8" dr="0" dc="0"/>
+    <round13 state="DEAD" hp="0" posr="9" posc="8" dr="0" dc="0"/>
+    <round14 state="DEAD" hp="0" posr="9" posc="8" dr="0" dc="0"/>
+    <round15 state="DEAD" hp="0" posr="9" posc="8" dr="0" dc="0"/>
+    <round16 state="DEAD" hp="0" posr="9" posc="8" dr="0" dc="0"/>
+    <round17 state="DEAD" hp="0" posr="9" posc="8" dr="0" dc="0"/>
+    <round18 state="DEAD" hp="0" posr="9" posc="8" dr="0" dc="0"/>
+    <round19 state="DEAD" hp="0" posr="9" posc="8" dr="0" dc="0"/>
+    <round20 state="DEAD" hp="0" posr="9" posc="8" dr="0" dc="0"/>
+    <round21 state="DEAD" hp="0" posr="9" posc="8" dr="0" dc="0"/>
+    <round22 state="DEAD" hp="0" posr="9" posc="8" dr="0" dc="0"/>
+    <round23 state="DEAD" hp="0" posr="9" posc="8" dr="0" dc="0"/>
+    <round24 state="DEAD" hp="0" posr="9" posc="8" dr="0" dc="0"/>
+    <round25 state="DEAD" hp="0" posr="9" posc="8" dr="0" dc="0"/>
+    <round26 state="DEAD" hp="0" posr="9" posc="8" dr="0" dc="0"/>
+    <round27 state="DEAD" hp="0" posr="9" posc="8" dr="0" dc="0"/>
+    <round28 state="DEAD" hp="0" posr="9" posc="8" dr="0" dc="0"/>
+    <round29 state="DEAD" hp="0" posr="9" posc="8" dr="0" dc="0"/>
+    <round30 state="DEAD" hp="0" posr="9" posc="8" dr="0" dc="0"/>
+    <round31 state="DEAD" hp="0" posr="9" posc="8" dr="0" dc="0"/>
+    <round32 state="DEAD" hp="0" posr="9" posc="8" dr="0" dc="0"/>
+    <round33 state="DEAD" hp="0" posr="9" posc="8" dr="0" dc="0"/>
+    <round34 state="DEAD" hp="0" posr="9" posc="8" dr="0" dc="0"/>
+    <round35 state="DEAD" hp="0" posr="9" posc="8" dr="0" dc="0"/>
+    <round36 state="DEAD" hp="0" posr="9" posc="8" dr="0" dc="0"/>
+    <round37 state="DEAD" hp="0" posr="9" posc="8" dr="0" dc="0"/>
+    <round38 state="DEAD" hp="0" posr="9" posc="8" dr="0" dc="0"/>
+    <round39 state="DEAD" hp="0" posr="9" posc="8" dr="0" dc="0"/>
+    <round40 state="DEAD" hp="0" posr="9" posc="8" dr="0" dc="0"/>
+    <round41 state="DEAD" hp="0" posr="9" posc="8" dr="0" dc="0"/>
+  </entity2130>
+  <entity1108 ctype="Bro4" r="10" c="4">
+    <round1 state="LIVE" hp="120" posr="10" posc="5" dr="0" dc="1">
+      <target tid="2054"/>
+      <target tid="2072"/>
+    </round1>
+    <round2 state="LIVE" hp="120" posr="10" posc="5" dr="0" dc="0"/>
+    <round3 state="LIVE" hp="120" posr="10" posc="4" dr="0" dc="-1">
+      <target tid="2054"/>
+      <target tid="2055"/>
+    </round3>
+    <round4 state="LIVE" hp="120" posr="10" posc="4" dr="0" dc="0"/>
+    <round5 state="LIVE" hp="120" posr="11" posc="4" dr="1" dc="0">
+      <target tid="2129"/>
+      <target tid="2130"/>
+    </round5>
+    <round6 state="LIVE" hp="120" posr="11" posc="4" dr="0" dc="0"/>
+    <round7 state="LIVE" hp="104" posr="11" posc="3" dr="0" dc="-1">
+      <target tid="2129"/>
+      <target tid="2130"/>
+    </round7>
+    <round8 state="LIVE" hp="98" posr="11" posc="3" dr="0" dc="0"/>
+    <round9 state="LIVE" hp="98" posr="12" posc="3" dr="1" dc="0">
+      <target tid="2130"/>
+      <target tid="2072"/>
+    </round9>
+    <round10 state="LIVE" hp="86" posr="12" posc="3" dr="0" dc="0"/>
+    <round11 state="LIVE" hp="86" posr="13" posc="2" dr="1" dc="-1">
+      <target tid="2090"/>
+      <target tid="2149"/>
+    </round11>
+    <round12 state="LIVE" hp="86" posr="13" posc="2" dr="0" dc="0"/>
+    <round13 state="LIVE" hp="86" posr="12" posc="1" dr="-1" dc="-1">
+      <target tid="2073"/>
+      <target tid="2091"/>
+    </round13>
+    <round14 state="LIVE" hp="86" posr="12" posc="1" dr="0" dc="0"/>
+    <round15 state="LIVE" hp="86" posr="12" posc="0" dr="0" dc="-1">
+      <target tid="2110"/>
+      <target tid="2091"/>
+    </round15>
+    <round16 state="LIVE" hp="86" posr="12" posc="0" dr="0" dc="0"/>
+    <round17 state="LIVE" hp="86" posr="11" posc="0" dr="-1" dc="0">
+      <target tid="2073"/>
+      <target tid="2091"/>
+    </round17>
+    <round18 state="LIVE" hp="86" posr="11" posc="0" dr="0" dc="0"/>
+    <round19 state="LIVE" hp="86" posr="11" posc="1" dr="0" dc="1">
+      <target tid="2073"/>
+    </round19>
+    <round20 state="LIVE" hp="86" posr="11" posc="1" dr="0" dc="0"/>
+    <round21 state="LIVE" hp="86" posr="10" posc="0" dr="-1" dc="-1">
+      <target tid="2092"/>
+      <target tid="2073"/>
+    </round21>
+    <round22 state="LIVE" hp="86" posr="10" posc="0" dr="0" dc="0"/>
+    <round23 state="LIVE" hp="86" posr="9" posc="0" dr="-1" dc="0">
+      <target tid="2092"/>
+      <target tid="2074"/>
+    </round23>
+    <round24 state="LIVE" hp="86" posr="9" posc="0" dr="0" dc="0"/>
+    <round25 state="LIVE" hp="86" posr="8" posc="0" dr="-1" dc="0">
+      <target tid="2074"/>
+      <target tid="2022"/>
+    </round25>
+    <round26 state="LIVE" hp="80" posr="8" posc="0" dr="0" dc="0"/>
+    <round27 state="LIVE" hp="80" posr="8" posc="0" dr="0" dc="0">
+      <target tid="2074"/>
+      <target tid="2022"/>
+    </round27>
+    <round28 state="LIVE" hp="68" posr="8" posc="0" dr="0" dc="0"/>
+    <round29 state="LIVE" hp="68" posr="8" posc="0" dr="0" dc="0">
+      <target tid="2074"/>
+      <target tid="2022"/>
+    </round29>
+    <round30 state="LIVE" hp="62" posr="8" posc="0" dr="0" dc="0"/>
+    <round31 state="LIVE" hp="62" posr="9" posc="0" dr="1" dc="0">
+      <target tid="2022"/>
+      <target tid="2039"/>
+    </round31>
+    <round32 state="LIVE" hp="56" posr="9" posc="0" dr="0" dc="0"/>
+    <round33 state="LIVE" hp="56" posr="10" posc="0" dr="1" dc="0">
+      <target tid="2038"/>
+      <target tid="2039"/>
+    </round33>
+    <round34 state="LIVE" hp="50" posr="10" posc="0" dr="0" dc="0"/>
+    <round35 state="LIVE" hp="50" posr="11" posc="0" dr="1" dc="0">
+      <target tid="2110"/>
+      <target tid="2111"/>
+    </round35>
+    <round36 state="LIVE" hp="44" posr="11" posc="0" dr="0" dc="0"/>
+    <round37 state="LIVE" hp="44" posr="11" posc="0" dr="0" dc="0">
+      <target tid="2110"/>
+      <target tid="2111"/>
+    </round37>
+    <round38 state="LIVE" hp="32" posr="11" posc="0" dr="0" dc="0"/>
+    <round39 state="LIVE" hp="32" posr="11" posc="0" dr="0" dc="0">
+      <target tid="2110"/>
+      <target tid="2111"/>
+    </round39>
+    <round40 state="LIVE" hp="26" posr="11" posc="0" dr="0" dc="0"/>
+    <round41 state="LIVE" hp="26" posr="10" posc="0" dr="-1" dc="0">
+      <target tid="2111"/>
+    </round41>
+  </entity1108>
+  <entity2005 ctype="Mons" r="3" c="15">
+    <round1 state="LIVE" hp="120" posr="3" posc="15" dr="0" dc="0"/>
+    <round2 state="LIVE" hp="120" posr="3" posc="14" dr="0" dc="-1"/>
+    <round3 state="LIVE" hp="120" posr="3" posc="14" dr="0" dc="0"/>
+    <round4 state="LIVE" hp="120" posr="6" posc="11" dr="3" dc="-3"/>
+    <round5 state="LIVE" hp="110" posr="6" posc="11" dr="0" dc="0"/>
+    <round6 state="LIVE" hp="120" posr="3" posc="11" dr="-3" dc="0">
+      <target tid="1055"/>
+    </round6>
+    <round7 state="LIVE" hp="120" posr="3" posc="11" dr="0" dc="0"/>
+    <round8 state="LIVE" hp="120" posr="6" posc="12" dr="3" dc="1"/>
+    <round9 state="LIVE" hp="120" posr="6" posc="12" dr="0" dc="0"/>
+    <round10 state="LIVE" hp="120" posr="3" posc="10" dr="-3" dc="-2">
+      <target tid="1000"/>
+    </round10>
+    <round11 state="LIVE" hp="65" posr="3" posc="10" dr="0" dc="0"/>
+    <round12 state="LIVE" hp="65" posr="6" posc="8" dr="3" dc="-2"/>
+    <round13 state="LIVE" hp="40" posr="6" posc="8" dr="0" dc="0"/>
+    <round14 state="LIVE" hp="40" posr="4" posc="7" dr="-2" dc="-1"/>
+    <round15 state="LIVE" hp="15" posr="4" posc="7" dr="0" dc="0"/>
+    <round16 state="LIVE" hp="15" posr="6" posc="5" dr="2" dc="-2"/>
+    <round17 state="DEAD" hp="0" posr="6" posc="5" dr="0" dc="0"/>
+    <round18 state="DEAD" hp="0" posr="6" posc="5" dr="0" dc="0"/>
+    <round19 state="DEAD" hp="0" posr="6" posc="5" dr="0" dc="0"/>
+    <round20 state="DEAD" hp="0" posr="6" posc="5" dr="0" dc="0"/>
+    <round21 state="DEAD" hp="0" posr="6" posc="5" dr="0" dc="0"/>
+    <round22 state="DEAD" hp="0" posr="6" posc="5" dr="0" dc="0"/>
+    <round23 state="DEAD" hp="0" posr="6" posc="5" dr="0" dc="0"/>
+    <round24 state="DEAD" hp="0" posr="6" posc="5" dr="0" dc="0"/>
+    <round25 state="DEAD" hp="0" posr="6" posc="5" dr="0" dc="0"/>
+    <round26 state="DEAD" hp="0" posr="6" posc="5" dr="0" dc="0"/>
+    <round27 state="DEAD" hp="0" posr="6" posc="5" dr="0" dc="0"/>
+    <round28 state="DEAD" hp="0" posr="6" posc="5" dr="0" dc="0"/>
+    <round29 state="DEAD" hp="0" posr="6" posc="5" dr="0" dc="0"/>
+    <round30 state="DEAD" hp="0" posr="6" posc="5" dr="0" dc="0"/>
+    <round31 state="DEAD" hp="0" posr="6" posc="5" dr="0" dc="0"/>
+    <round32 state="DEAD" hp="0" posr="6" posc="5" dr="0" dc="0"/>
+    <round33 state="DEAD" hp="0" posr="6" posc="5" dr="0" dc="0"/>
+    <round34 state="DEAD" hp="0" posr="6" posc="5" dr="0" dc="0"/>
+    <round35 state="DEAD" hp="0" posr="6" posc="5" dr="0" dc="0"/>
+    <round36 state="DEAD" hp="0" posr="6" posc="5" dr="0" dc="0"/>
+    <round37 state="DEAD" hp="0" posr="6" posc="5" dr="0" dc="0"/>
+    <round38 state="DEAD" hp="0" posr="6" posc="5" dr="0" dc="0"/>
+    <round39 state="DEAD" hp="0" posr="6" posc="5" dr="0" dc="0"/>
+    <round40 state="DEAD" hp="0" posr="6" posc="5" dr="0" dc="0"/>
+    <round41 state="DEAD" hp="0" posr="6" posc="5" dr="0" dc="0"/>
+  </entity2005>
+  <entity2072 ctype="Mons" r="7" c="10">
+    <round1 state="LIVE" hp="80" posr="7" posc="10" dr="0" dc="0"/>
+    <round2 state="LIVE" hp="90" posr="7" posc="9" dr="0" dc="-1"/>
+    <round3 state="LIVE" hp="75" posr="7" posc="9" dr="0" dc="0"/>
+    <round4 state="LIVE" hp="85" posr="9" posc="7" dr="2" dc="-2">
+      <target tid="1091"/>
+      <target tid="1055"/>
+    </round4>
+    <round5 state="LIVE" hp="60" posr="9" posc="7" dr="0" dc="0"/>
+    <round6 state="LIVE" hp="70" posr="11" posc="6" dr="2" dc="-1">
+      <target tid="1091"/>
+      <target tid="1127"/>
+    </round6>
+    <round7 state="LIVE" hp="35" posr="11" posc="6" dr="0" dc="0"/>
+    <round8 state="LIVE" hp="45" posr="11" posc="8" dr="0" dc="2">
+      <target tid="1072"/>
+    </round8>
+    <round9 state="DEAD" hp="0" posr="11" posc="8" dr="0" dc="0"/>
+    <round10 state="DEAD" hp="0" posr="11" posc="8" dr="0" dc="0"/>
+    <round11 state="DEAD" hp="0" posr="11" posc="8" dr="0" dc="0"/>
+    <round12 state="DEAD" hp="0" posr="11" posc="8" dr="0" dc="0"/>
+    <round13 state="DEAD" hp="0" posr="11" posc="8" dr="0" dc="0"/>
+    <round14 state="DEAD" hp="0" posr="11" posc="8" dr="0" dc="0"/>
+    <round15 state="DEAD" hp="0" posr="11" posc="8" dr="0" dc="0"/>
+    <round16 state="DEAD" hp="0" posr="11" posc="8" dr="0" dc="0"/>
+    <round17 state="DEAD" hp="0" posr="11" posc="8" dr="0" dc="0"/>
+    <round18 state="DEAD" hp="0" posr="11" posc="8" dr="0" dc="0"/>
+    <round19 state="DEAD" hp="0" posr="11" posc="8" dr="0" dc="0"/>
+    <round20 state="DEAD" hp="0" posr="11" posc="8" dr="0" dc="0"/>
+    <round21 state="DEAD" hp="0" posr="11" posc="8" dr="0" dc="0"/>
+    <round22 state="DEAD" hp="0" posr="11" posc="8" dr="0" dc="0"/>
+    <round23 state="DEAD" hp="0" posr="11" posc="8" dr="0" dc="0"/>
+    <round24 state="DEAD" hp="0" posr="11" posc="8" dr="0" dc="0"/>
+    <round25 state="DEAD" hp="0" posr="11" posc="8" dr="0" dc="0"/>
+    <round26 state="DEAD" hp="0" posr="11" posc="8" dr="0" dc="0"/>
+    <round27 state="DEAD" hp="0" posr="11" posc="8" dr="0" dc="0"/>
+    <round28 state="DEAD" hp="0" posr="11" posc="8" dr="0" dc="0"/>
+    <round29 state="DEAD" hp="0" posr="11" posc="8" dr="0" dc="0"/>
+    <round30 state="DEAD" hp="0" posr="11" posc="8" dr="0" dc="0"/>
+    <round31 state="DEAD" hp="0" posr="11" posc="8" dr="0" dc="0"/>
+    <round32 state="DEAD" hp="0" posr="11" posc="8" dr="0" dc="0"/>
+    <round33 state="DEAD" hp="0" posr="11" posc="8" dr="0" dc="0"/>
+    <round34 state="DEAD" hp="0" posr="11" posc="8" dr="0" dc="0"/>
+    <round35 state="DEAD" hp="0" posr="11" posc="8" dr="0" dc="0"/>
+    <round36 state="DEAD" hp="0" posr="11" posc="8" dr="0" dc="0"/>
+    <round37 state="DEAD" hp="0" posr="11" posc="8" dr="0" dc="0"/>
+    <round38 state="DEAD" hp="0" posr="11" posc="8" dr="0" dc="0"/>
+    <round39 state="DEAD" hp="0" posr="11" posc="8" dr="0" dc="0"/>
+    <round40 state="DEAD" hp="0" posr="11" posc="8" dr="0" dc="0"/>
+    <round41 state="DEAD" hp="0" posr="11" posc="8" dr="0" dc="0"/>
+  </entity2072>
+  <entity2073 ctype="Scorp" r="7" c="11">
+    <round1 state="LIVE" hp="170" posr="7" posc="11" dr="0" dc="0"/>
+    <round2 state="LIVE" hp="180" posr="7" posc="10" dr="0" dc="-1"/>
+    <round3 state="LIVE" hp="180" posr="7" posc="10" dr="0" dc="0"/>
+    <round4 state="LIVE" hp="180" posr="8" posc="12" dr="1" dc="2">
+      <target tid="1091"/>
+    </round4>
+    <round5 state="LIVE" hp="180" posr="8" posc="12" dr="0" dc="0"/>
+    <round6 state="LIVE" hp="180" posr="8" posc="11" dr="0" dc="-1">
+      <target tid="1055"/>
+    </round6>
+    <round7 state="LIVE" hp="180" posr="8" posc="11" dr="0" dc="0"/>
+    <round8 state="LIVE" hp="180" posr="9" posc="9" dr="1" dc="-2">
+      <target tid="1055"/>
+    </round8>
+    <round9 state="LIVE" hp="155" posr="9" posc="9" dr="0" dc="0"/>
+    <round10 state="LIVE" hp="165" posr="10" posc="10" dr="1" dc="1">
+      <target tid="1055"/>
+    </round10>
+    <round11 state="LIVE" hp="155" posr="10" posc="10" dr="0" dc="0"/>
+    <round12 state="LIVE" hp="155" posr="12" posc="8" dr="2" dc="-2">
+      <target tid="1000"/>
+    </round12>
+    <round13 state="LIVE" hp="125" posr="12" posc="8" dr="0" dc="0"/>
+    <round14 state="LIVE" hp="125" posr="13" posc="8" dr="1" dc="0">
+      <target tid="1091"/>
+    </round14>
+    <round15 state="LIVE" hp="125" posr="13" posc="8" dr="0" dc="0"/>
+    <round16 state="LIVE" hp="125" posr="12" posc="6" dr="-1" dc="-2">
+      <target tid="1091"/>
+    </round16>
+    <round17 state="LIVE" hp="95" posr="12" posc="6" dr="0" dc="0"/>
+    <round18 state="LIVE" hp="95" posr="11" posc="4" dr="-1" dc="-2">
+      <target tid="1091"/>
+    </round18>
+    <round19 state="LIVE" hp="25" posr="11" posc="4" dr="0" dc="0"/>
+    <round20 state="LIVE" hp="25" posr="11" posc="5" dr="0" dc="1">
+      <target tid="1091"/>
+    </round20>
+    <round21 state="DEAD" hp="0" posr="11" posc="5" dr="0" dc="0"/>
+    <round22 state="DEAD" hp="0" posr="11" posc="5" dr="0" dc="0"/>
+    <round23 state="DEAD" hp="0" posr="11" posc="5" dr="0" dc="0"/>
+    <round24 state="DEAD" hp="0" posr="11" posc="5" dr="0" dc="0"/>
+    <round25 state="DEAD" hp="0" posr="11" posc="5" dr="0" dc="0"/>
+    <round26 state="DEAD" hp="0" posr="11" posc="5" dr="0" dc="0"/>
+    <round27 state="DEAD" hp="0" posr="11" posc="5" dr="0" dc="0"/>
+    <round28 state="DEAD" hp="0" posr="11" posc="5" dr="0" dc="0"/>
+    <round29 state="DEAD" hp="0" posr="11" posc="5" dr="0" dc="0"/>
+    <round30 state="DEAD" hp="0" posr="11" posc="5" dr="0" dc="0"/>
+    <round31 state="DEAD" hp="0" posr="11" posc="5" dr="0" dc="0"/>
+    <round32 state="DEAD" hp="0" posr="11" posc="5" dr="0" dc="0"/>
+    <round33 state="DEAD" hp="0" posr="11" posc="5" dr="0" dc="0"/>
+    <round34 state="DEAD" hp="0" posr="11" posc="5" dr="0" dc="0"/>
+    <round35 state="DEAD" hp="0" posr="11" posc="5" dr="0" dc="0"/>
+    <round36 state="DEAD" hp="0" posr="11" posc="5" dr="0" dc="0"/>
+    <round37 state="DEAD" hp="0" posr="11" posc="5" dr="0" dc="0"/>
+    <round38 state="DEAD" hp="0" posr="11" posc="5" dr="0" dc="0"/>
+    <round39 state="DEAD" hp="0" posr="11" posc="5" dr="0" dc="0"/>
+    <round40 state="DEAD" hp="0" posr="11" posc="5" dr="0" dc="0"/>
+    <round41 state="DEAD" hp="0" posr="11" posc="5" dr="0" dc="0"/>
+  </entity2073>
+  <entity2074 ctype="Snk" r="7" c="12">
+    <round1 state="LIVE" hp="150" posr="7" posc="12" dr="0" dc="0"/>
+    <round2 state="LIVE" hp="150" posr="7" posc="11" dr="0" dc="-1">
+      <target tid="2074"/>
+    </round2>
+    <round3 state="LIVE" hp="150" posr="7" posc="11" dr="0" dc="0"/>
+    <round4 state="LIVE" hp="150" posr="9" posc="10" dr="2" dc="-1">
+      <target tid="1091"/>
+      <target tid="1055"/>
+      <target tid="1000"/>
+      <target tid="1127"/>
+    </round4>
+    <round5 state="LIVE" hp="150" posr="9" posc="10" dr="0" dc="0"/>
+    <round6 state="LIVE" hp="150" posr="7" posc="9" dr="-2" dc="-1">
+      <target tid="1091"/>
+      <target tid="1055"/>
+      <target tid="1000"/>
+      <target tid="1127"/>
+    </round6>
+    <round7 state="LIVE" hp="70" posr="7" posc="9" dr="0" dc="0"/>
+    <round8 state="LIVE" hp="80" posr="7" posc="11" dr="0" dc="2">
+      <target tid="1091"/>
+      <target tid="1055"/>
+      <target tid="1000"/>
+      <target tid="1127"/>
+    </round8>
+    <round9 state="LIVE" hp="80" posr="7" posc="11" dr="0" dc="0"/>
+    <round10 state="LIVE" hp="90" posr="7" posc="13" dr="0" dc="2">
+      <target tid="1019"/>
+      <target tid="1000"/>
+    </round10>
+    <round11 state="LIVE" hp="90" posr="7" posc="13" dr="0" dc="0"/>
+    <round12 state="LIVE" hp="100" posr="5" posc="13" dr="-2" dc="0">
+      <target tid="1072"/>
+      <target tid="1000"/>
+    </round12>
+    <round13 state="LIVE" hp="100" posr="5" posc="13" dr="0" dc="0"/>
+    <round14 state="LIVE" hp="110" posr="4" posc="11" dr="-1" dc="-2">
+      <target tid="1072"/>
+    </round14>
+    <round15 state="LIVE" hp="110" posr="4" posc="11" dr="0" dc="0"/>
+    <round16 state="LIVE" hp="120" posr="5" posc="9" dr="1" dc="-2">
+      <target tid="2074"/>
+    </round16>
+    <round17 state="LIVE" hp="110" posr="5" posc="9" dr="0" dc="0"/>
+    <round18 state="LIVE" hp="120" posr="5" posc="7" dr="0" dc="-2">
+      <target tid="1091"/>
+      <target tid="1019"/>
+    </round18>
+    <round19 state="LIVE" hp="95" posr="5" posc="7" dr="0" dc="0"/>
+    <round20 state="LIVE" hp="105" posr="6" posc="8" dr="1" dc="1">
+      <target tid="1019"/>
+    </round20>
+    <round21 state="LIVE" hp="95" posr="6" posc="8" dr="0" dc="0"/>
+    <round22 state="LIVE" hp="105" posr="4" posc="6" dr="-2" dc="-2">
+      <target tid="2074"/>
+    </round22>
+    <round23 state="LIVE" hp="65" posr="4" posc="6" dr="0" dc="0"/>
+    <round24 state="LIVE" hp="75" posr="5" posc="5" dr="1" dc="-1">
+      <target tid="1036"/>
+    </round24>
+    <round25 state="LIVE" hp="35" posr="5" posc="5" dr="0" dc="0"/>
+    <round26 state="LIVE" hp="45" posr="3" posc="6" dr="-2" dc="1">
+      <target tid="1036"/>
+    </round26>
+    <round27 state="LIVE" hp="5" posr="3" posc="6" dr="0" dc="0"/>
+    <round28 state="LIVE" hp="15" posr="3" posc="5" dr="0" dc="-1">
+      <target tid="1036"/>
+      <target tid="1019"/>
+    </round28>
+    <round29 state="DEAD" hp="0" posr="3" posc="5" dr="0" dc="0"/>
+    <round30 state="DEAD" hp="0" posr="3" posc="5" dr="0" dc="0"/>
+    <round31 state="DEAD" hp="0" posr="3" posc="5" dr="0" dc="0"/>
+    <round32 state="DEAD" hp="0" posr="3" posc="5" dr="0" dc="0"/>
+    <round33 state="DEAD" hp="0" posr="3" posc="5" dr="0" dc="0"/>
+    <round34 state="DEAD" hp="0" posr="3" posc="5" dr="0" dc="0"/>
+    <round35 state="DEAD" hp="0" posr="3" posc="5" dr="0" dc="0"/>
+    <round36 state="DEAD" hp="0" posr="3" posc="5" dr="0" dc="0"/>
+    <round37 state="DEAD" hp="0" posr="3" posc="5" dr="0" dc="0"/>
+    <round38 state="DEAD" hp="0" posr="3" posc="5" dr="0" dc="0"/>
+    <round39 state="DEAD" hp="0" posr="3" posc="5" dr="0" dc="0"/>
+    <round40 state="DEAD" hp="0" posr="3" posc="5" dr="0" dc="0"/>
+    <round41 state="DEAD" hp="0" posr="3" posc="5" dr="0" dc="0"/>
+  </entity2074>
+  <entity1055 ctype="Bro6" r="7" c="5">
+    <round1 state="LIVE" hp="150" posr="7" posc="6" dr="0" dc="1"/>
+    <round2 state="LIVE" hp="150" posr="7" posc="6" dr="0" dc="0"/>
+    <round3 state="LIVE" hp="150" posr="5" posc="10" dr="-2" dc="4"/>
+    <round4 state="LIVE" hp="100" posr="5" posc="10" dr="0" dc="0"/>
+    <round5 state="LIVE" hp="101" posr="5" posc="13" dr="0" dc="3">
+      <target tid="2055"/>
+    </round5>
+    <round6 state="LIVE" hp="49" posr="5" posc="13" dr="0" dc="0"/>
+    <round7 state="LIVE" hp="49" posr="7" posc="13" dr="2" dc="0">
+      <target tid="2055"/>
+    </round7>
+    <round8 state="LIVE" hp="9" posr="7" posc="13" dr="0" dc="0"/>
+    <round9 state="LIVE" hp="21" posr="6" posc="10" dr="-1" dc="-3">
+      <target tid="2056"/>
+    </round9>
+    <round10 state="DEAD" hp="0" posr="6" posc="10" dr="0" dc="0"/>
+    <round11 state="DEAD" hp="0" posr="6" posc="10" dr="0" dc="0"/>
+    <round12 state="DEAD" hp="0" posr="6" posc="10" dr="0" dc="0"/>
+    <round13 state="DEAD" hp="0" posr="6" posc="10" dr="0" dc="0"/>
+    <round14 state="DEAD" hp="0" posr="6" posc="10" dr="0" dc="0"/>
+    <round15 state="DEAD" hp="0" posr="6" posc="10" dr="0" dc="0"/>
+    <round16 state="DEAD" hp="0" posr="6" posc="10" dr="0" dc="0"/>
+    <round17 state="DEAD" hp="0" posr="6" posc="10" dr="0" dc="0"/>
+    <round18 state="DEAD" hp="0" posr="6" posc="10" dr="0" dc="0"/>
+    <round19 state="DEAD" hp="0" posr="6" posc="10" dr="0" dc="0"/>
+    <round20 state="DEAD" hp="0" posr="6" posc="10" dr="0" dc="0"/>
+    <round21 state="DEAD" hp="0" posr="6" posc="10" dr="0" dc="0"/>
+    <round22 state="DEAD" hp="0" posr="6" posc="10" dr="0" dc="0"/>
+    <round23 state="DEAD" hp="0" posr="6" posc="10" dr="0" dc="0"/>
+    <round24 state="DEAD" hp="0" posr="6" posc="10" dr="0" dc="0"/>
+    <round25 state="DEAD" hp="0" posr="6" posc="10" dr="0" dc="0"/>
+    <round26 state="DEAD" hp="0" posr="6" posc="10" dr="0" dc="0"/>
+    <round27 state="DEAD" hp="0" posr="6" posc="10" dr="0" dc="0"/>
+    <round28 state="DEAD" hp="0" posr="6" posc="10" dr="0" dc="0"/>
+    <round29 state="DEAD" hp="0" posr="6" posc="10" dr="0" dc="0"/>
+    <round30 state="DEAD" hp="0" posr="6" posc="10" dr="0" dc="0"/>
+    <round31 state="DEAD" hp="0" posr="6" posc="10" dr="0" dc="0"/>
+    <round32 state="DEAD" hp="0" posr="6" posc="10" dr="0" dc="0"/>
+    <round33 state="DEAD" hp="0" posr="6" posc="10" dr="0" dc="0"/>
+    <round34 state="DEAD" hp="0" posr="6" posc="10" dr="0" dc="0"/>
+    <round35 state="DEAD" hp="0" posr="6" posc="10" dr="0" dc="0"/>
+    <round36 state="DEAD" hp="0" posr="6" posc="10" dr="0" dc="0"/>
+    <round37 state="DEAD" hp="0" posr="6" posc="10" dr="0" dc="0"/>
+    <round38 state="DEAD" hp="0" posr="6" posc="10" dr="0" dc="0"/>
+    <round39 state="DEAD" hp="0" posr="6" posc="10" dr="0" dc="0"/>
+    <round40 state="DEAD" hp="0" posr="6" posc="10" dr="0" dc="0"/>
+    <round41 state="DEAD" hp="0" posr="6" posc="10" dr="0" dc="0"/>
+  </entity1055>
+  <entity2021 ctype="Mons" r="4" c="13">
+    <round1 state="LIVE" hp="120" posr="4" posc="13" dr="0" dc="0"/>
+    <round2 state="LIVE" hp="120" posr="4" posc="12" dr="0" dc="-1"/>
+    <round3 state="LIVE" hp="120" posr="4" posc="12" dr="0" dc="0"/>
+    <round4 state="LIVE" hp="120" posr="3" posc="9" dr="-1" dc="-3">
+      <target tid="1055"/>
+    </round4>
+    <round5 state="LIVE" hp="90" posr="3" posc="9" dr="0" dc="0"/>
+    <round6 state="LIVE" hp="90" posr="6" posc="8" dr="3" dc="-1"/>
+    <round7 state="LIVE" hp="35" posr="6" posc="8" dr="0" dc="0"/>
+    <round8 state="LIVE" hp="45" posr="8" posc="5" dr="2" dc="-3">
+      <target tid="1019"/>
+      <target tid="1000"/>
+    </round8>
+    <round9 state="DEAD" hp="0" posr="8" posc="5" dr="0" dc="0"/>
+    <round10 state="DEAD" hp="0" posr="8" posc="5" dr="0" dc="0"/>
+    <round11 state="DEAD" hp="0" posr="8" posc="5" dr="0" dc="0"/>
+    <round12 state="DEAD" hp="0" posr="8" posc="5" dr="0" dc="0"/>
+    <round13 state="DEAD" hp="0" posr="8" posc="5" dr="0" dc="0"/>
+    <round14 state="DEAD" hp="0" posr="8" posc="5" dr="0" dc="0"/>
+    <round15 state="DEAD" hp="0" posr="8" posc="5" dr="0" dc="0"/>
+    <round16 state="DEAD" hp="0" posr="8" posc="5" dr="0" dc="0"/>
+    <round17 state="DEAD" hp="0" posr="8" posc="5" dr="0" dc="0"/>
+    <round18 state="DEAD" hp="0" posr="8" posc="5" dr="0" dc="0"/>
+    <round19 state="DEAD" hp="0" posr="8" posc="5" dr="0" dc="0"/>
+    <round20 state="DEAD" hp="0" posr="8" posc="5" dr="0" dc="0"/>
+    <round21 state="DEAD" hp="0" posr="8" posc="5" dr="0" dc="0"/>
+    <round22 state="DEAD" hp="0" posr="8" posc="5" dr="0" dc="0"/>
+    <round23 state="DEAD" hp="0" posr="8" posc="5" dr="0" dc="0"/>
+    <round24 state="DEAD" hp="0" posr="8" posc="5" dr="0" dc="0"/>
+    <round25 state="DEAD" hp="0" posr="8" posc="5" dr="0" dc="0"/>
+    <round26 state="DEAD" hp="0" posr="8" posc="5" dr="0" dc="0"/>
+    <round27 state="DEAD" hp="0" posr="8" posc="5" dr="0" dc="0"/>
+    <round28 state="DEAD" hp="0" posr="8" posc="5" dr="0" dc="0"/>
+    <round29 state="DEAD" hp="0" posr="8" posc="5" dr="0" dc="0"/>
+    <round30 state="DEAD" hp="0" posr="8" posc="5" dr="0" dc="0"/>
+    <round31 state="DEAD" hp="0" posr="8" posc="5" dr="0" dc="0"/>
+    <round32 state="DEAD" hp="0" posr="8" posc="5" dr="0" dc="0"/>
+    <round33 state="DEAD" hp="0" posr="8" posc="5" dr="0" dc="0"/>
+    <round34 state="DEAD" hp="0" posr="8" posc="5" dr="0" dc="0"/>
+    <round35 state="DEAD" hp="0" posr="8" posc="5" dr="0" dc="0"/>
+    <round36 state="DEAD" hp="0" posr="8" posc="5" dr="0" dc="0"/>
+    <round37 state="DEAD" hp="0" posr="8" posc="5" dr="0" dc="0"/>
+    <round38 state="DEAD" hp="0" posr="8" posc="5" dr="0" dc="0"/>
+    <round39 state="DEAD" hp="0" posr="8" posc="5" dr="0" dc="0"/>
+    <round40 state="DEAD" hp="0" posr="8" posc="5" dr="0" dc="0"/>
+    <round41 state="DEAD" hp="0" posr="8" posc="5" dr="0" dc="0"/>
+  </entity2021>
+  <entity2149 ctype="Mons" r="11" c="15">
+    <round1 state="LIVE" hp="120" posr="11" posc="15" dr="0" dc="0"/>
+    <round2 state="LIVE" hp="120" posr="11" posc="14" dr="0" dc="-1"/>
+    <round3 state="LIVE" hp="120" posr="11" posc="14" dr="0" dc="0"/>
+    <round4 state="LIVE" hp="120" posr="10" posc="11" dr="-1" dc="-3"/>
+    <round5 state="LIVE" hp="120" posr="10" posc="11" dr="0" dc="0"/>
+    <round6 state="LIVE" hp="120" posr="10" posc="8" dr="0" dc="-3"/>
+    <round7 state="LIVE" hp="55" posr="10" posc="8" dr="0" dc="0"/>
+    <round8 state="LIVE" hp="65" posr="12" posc="10" dr="2" dc="2">
+      <target tid="1072"/>
+      <target tid="1127"/>
+    </round8>
+    <round9 state="LIVE" hp="65" posr="12" posc="10" dr="0" dc="0"/>
+    <round10 state="LIVE" hp="65" posr="10" posc="8" dr="-2" dc="-2">
+      <target tid="1072"/>
+    </round10>
+    <round11 state="LIVE" hp="25" posr="10" posc="8" dr="0" dc="0"/>
+    <round12 state="LIVE" hp="25" posr="9" posc="11" dr="-1" dc="3"/>
+    <round13 state="DEAD" hp="0" posr="9" posc="11" dr="0" dc="0"/>
+    <round14 state="DEAD" hp="0" posr="9" posc="11" dr="0" dc="0"/>
+    <round15 state="DEAD" hp="0" posr="9" posc="11" dr="0" dc="0"/>
+    <round16 state="DEAD" hp="0" posr="9" posc="11" dr="0" dc="0"/>
+    <round17 state="DEAD" hp="0" posr="9" posc="11" dr="0" dc="0"/>
+    <round18 state="DEAD" hp="0" posr="9" posc="11" dr="0" dc="0"/>
+    <round19 state="DEAD" hp="0" posr="9" posc="11" dr="0" dc="0"/>
+    <round20 state="DEAD" hp="0" posr="9" posc="11" dr="0" dc="0"/>
+    <round21 state="DEAD" hp="0" posr="9" posc="11" dr="0" dc="0"/>
+    <round22 state="DEAD" hp="0" posr="9" posc="11" dr="0" dc="0"/>
+    <round23 state="DEAD" hp="0" posr="9" posc="11" dr="0" dc="0"/>
+    <round24 state="DEAD" hp="0" posr="9" posc="11" dr="0" dc="0"/>
+    <round25 state="DEAD" hp="0" posr="9" posc="11" dr="0" dc="0"/>
+    <round26 state="DEAD" hp="0" posr="9" posc="11" dr="0" dc="0"/>
+    <round27 state="DEAD" hp="0" posr="9" posc="11" dr="0" dc="0"/>
+    <round28 state="DEAD" hp="0" posr="9" posc="11" dr="0" dc="0"/>
+    <round29 state="DEAD" hp="0" posr="9" posc="11" dr="0" dc="0"/>
+    <round30 state="DEAD" hp="0" posr="9" posc="11" dr="0" dc="0"/>
+    <round31 state="DEAD" hp="0" posr="9" posc="11" dr="0" dc="0"/>
+    <round32 state="DEAD" hp="0" posr="9" posc="11" dr="0" dc="0"/>
+    <round33 state="DEAD" hp="0" posr="9" posc="11" dr="0" dc="0"/>
+    <round34 state="DEAD" hp="0" posr="9" posc="11" dr="0" dc="0"/>
+    <round35 state="DEAD" hp="0" posr="9" posc="11" dr="0" dc="0"/>
+    <round36 state="DEAD" hp="0" posr="9" posc="11" dr="0" dc="0"/>
+    <round37 state="DEAD" hp="0" posr="9" posc="11" dr="0" dc="0"/>
+    <round38 state="DEAD" hp="0" posr="9" posc="11" dr="0" dc="0"/>
+    <round39 state="DEAD" hp="0" posr="9" posc="11" dr="0" dc="0"/>
+    <round40 state="DEAD" hp="0" posr="9" posc="11" dr="0" dc="0"/>
+    <round41 state="DEAD" hp="0" posr="9" posc="11" dr="0" dc="0"/>
+  </entity2149>
+  <entity2022 ctype="Mons" r="4" c="14">
+    <round1 state="LIVE" hp="120" posr="4" posc="14" dr="0" dc="0"/>
+    <round2 state="LIVE" hp="120" posr="4" posc="13" dr="0" dc="-1"/>
+    <round3 state="LIVE" hp="120" posr="4" posc="13" dr="0" dc="0"/>
+    <round4 state="LIVE" hp="120" posr="4" posc="11" dr="0" dc="-2"/>
+    <round5 state="LIVE" hp="120" posr="4" posc="11" dr="0" dc="0"/>
+    <round6 state="LIVE" hp="120" posr="3" posc="12" dr="-1" dc="1">
+      <target tid="1055"/>
+    </round6>
+    <round7 state="LIVE" hp="120" posr="3" posc="12" dr="0" dc="0"/>
+    <round8 state="LIVE" hp="120" posr="6" posc="13" dr="3" dc="1"/>
+    <round9 state="LIVE" hp="120" posr="6" posc="13" dr="0" dc="0"/>
+    <round10 state="LIVE" hp="120" posr="3" posc="11" dr="-3" dc="-2"/>
+    <round11 state="LIVE" hp="120" posr="3" posc="11" dr="0" dc="0"/>
+    <round12 state="LIVE" hp="120" posr="3" posc="11" dr="0" dc="0"/>
+    <round13 state="LIVE" hp="110" posr="3" posc="11" dr="0" dc="0"/>
+    <round14 state="LIVE" hp="120" posr="6" posc="13" dr="3" dc="2"/>
+    <round15 state="LIVE" hp="120" posr="6" posc="13" dr="0" dc="0"/>
+    <round16 state="LIVE" hp="120" posr="8" posc="15" dr="2" dc="2"/>
+    <round17 state="LIVE" hp="120" posr="8" posc="15" dr="0" dc="0"/>
+    <round18 state="LIVE" hp="120" posr="8" posc="13" dr="0" dc="-2"/>
+    <round19 state="LIVE" hp="120" posr="8" posc="13" dr="0" dc="0"/>
+    <round20 state="LIVE" hp="120" posr="8" posc="10" dr="0" dc="-3"/>
+    <round21 state="LIVE" hp="120" posr="8" posc="10" dr="0" dc="0"/>
+    <round22 state="LIVE" hp="120" posr="5" posc="7" dr="-3" dc="-3"/>
+    <round23 state="LIVE" hp="110" posr="5" posc="7" dr="0" dc="0"/>
+    <round24 state="LIVE" hp="120" posr="3" posc="5" dr="-2" dc="-2"/>
+    <round25 state="LIVE" hp="80" posr="3" posc="5" dr="0" dc="0"/>
+    <round26 state="LIVE" hp="90" posr="3" posc="4" dr="0" dc="-1"/>
+    <round27 state="LIVE" hp="50" posr="3" posc="4" dr="0" dc="0"/>
+    <round28 state="LIVE" hp="60" posr="4" posc="1" dr="1" dc="-3">
+      <target tid="1036"/>
+      <target tid="1019"/>
+    </round28>
+    <round29 state="LIVE" hp="20" posr="4" posc="1" dr="0" dc="0"/>
+    <round30 state="LIVE" hp="20" posr="7" posc="2" dr="3" dc="1"/>
+    <round31 state="DEAD" hp="0" posr="7" posc="2" dr="0" dc="0"/>
+    <round32 state="DEAD" hp="0" posr="7" posc="2" dr="0" dc="0"/>
+    <round33 state="DEAD" hp="0" posr="7" posc="2" dr="0" dc="0"/>
+    <round34 state="DEAD" hp="0" posr="7" posc="2" dr="0" dc="0"/>
+    <round35 state="DEAD" hp="0" posr="7" posc="2" dr="0" dc="0"/>
+    <round36 state="DEAD" hp="0" posr="7" posc="2" dr="0" dc="0"/>
+    <round37 state="DEAD" hp="0" posr="7" posc="2" dr="0" dc="0"/>
+    <round38 state="DEAD" hp="0" posr="7" posc="2" dr="0" dc="0"/>
+    <round39 state="DEAD" hp="0" posr="7" posc="2" dr="0" dc="0"/>
+    <round40 state="DEAD" hp="0" posr="7" posc="2" dr="0" dc="0"/>
+    <round41 state="DEAD" hp="0" posr="7" posc="2" dr="0" dc="0"/>
+  </entity2022>
+  <entity1127 ctype="Eld" r="11" c="5">
+    <round1 state="LIVE" hp="100" posr="11" posc="6" dr="0" dc="1"/>
+    <round2 state="LIVE" hp="100" posr="11" posc="6" dr="0" dc="0"/>
+    <round3 state="LIVE" hp="100" posr="10" posc="7" dr="-1" dc="1"/>
+    <round4 state="LIVE" hp="80" posr="10" posc="7" dr="0" dc="0"/>
+    <round5 state="LIVE" hp="80" posr="11" posc="8" dr="1" dc="1">
+      <target tid="2110"/>
+      <target tid="2129"/>
+      <target tid="2091"/>
+      <target tid="2072"/>
+    </round5>
+    <round6 state="LIVE" hp="36" posr="11" posc="8" dr="0" dc="0"/>
+    <round7 state="LIVE" hp="36" posr="10" posc="9" dr="-1" dc="1">
+      <target tid="2149"/>
+      <target tid="2091"/>
+      <target tid="2130"/>
+      <target tid="2072"/>
+    </round7>
+    <round8 state="DEAD" hp="0" posr="10" posc="9" dr="0" dc="0"/>
+    <round9 state="DEAD" hp="0" posr="10" posc="9" dr="0" dc="0"/>
+    <round10 state="DEAD" hp="0" posr="10" posc="9" dr="0" dc="0"/>
+    <round11 state="DEAD" hp="0" posr="10" posc="9" dr="0" dc="0"/>
+    <round12 state="DEAD" hp="0" posr="10" posc="9" dr="0" dc="0"/>
+    <round13 state="DEAD" hp="0" posr="10" posc="9" dr="0" dc="0"/>
+    <round14 state="DEAD" hp="0" posr="10" posc="9" dr="0" dc="0"/>
+    <round15 state="DEAD" hp="0" posr="10" posc="9" dr="0" dc="0"/>
+    <round16 state="DEAD" hp="0" posr="10" posc="9" dr="0" dc="0"/>
+    <round17 state="DEAD" hp="0" posr="10" posc="9" dr="0" dc="0"/>
+    <round18 state="DEAD" hp="0" posr="10" posc="9" dr="0" dc="0"/>
+    <round19 state="DEAD" hp="0" posr="10" posc="9" dr="0" dc="0"/>
+    <round20 state="DEAD" hp="0" posr="10" posc="9" dr="0" dc="0"/>
+    <round21 state="DEAD" hp="0" posr="10" posc="9" dr="0" dc="0"/>
+    <round22 state="DEAD" hp="0" posr="10" posc="9" dr="0" dc="0"/>
+    <round23 state="DEAD" hp="0" posr="10" posc="9" dr="0" dc="0"/>
+    <round24 state="DEAD" hp="0" posr="10" posc="9" dr="0" dc="0"/>
+    <round25 state="DEAD" hp="0" posr="10" posc="9" dr="0" dc="0"/>
+    <round26 state="DEAD" hp="0" posr="10" posc="9" dr="0" dc="0"/>
+    <round27 state="DEAD" hp="0" posr="10" posc="9" dr="0" dc="0"/>
+    <round28 state="DEAD" hp="0" posr="10" posc="9" dr="0" dc="0"/>
+    <round29 state="DEAD" hp="0" posr="10" posc="9" dr="0" dc="0"/>
+    <round30 state="DEAD" hp="0" posr="10" posc="9" dr="0" dc="0"/>
+    <round31 state="DEAD" hp="0" posr="10" posc="9" dr="0" dc="0"/>
+    <round32 state="DEAD" hp="0" posr="10" posc="9" dr="0" dc="0"/>
+    <round33 state="DEAD" hp="0" posr="10" posc="9" dr="0" dc="0"/>
+    <round34 state="DEAD" hp="0" posr="10" posc="9" dr="0" dc="0"/>
+    <round35 state="DEAD" hp="0" posr="10" posc="9" dr="0" dc="0"/>
+    <round36 state="DEAD" hp="0" posr="10" posc="9" dr="0" dc="0"/>
+    <round37 state="DEAD" hp="0" posr="10" posc="9" dr="0" dc="0"/>
+    <round38 state="DEAD" hp="0" posr="10" posc="9" dr="0" dc="0"/>
+    <round39 state="DEAD" hp="0" posr="10" posc="9" dr="0" dc="0"/>
+    <round40 state="DEAD" hp="0" posr="10" posc="9" dr="0" dc="0"/>
+    <round41 state="DEAD" hp="0" posr="10" posc="9" dr="0" dc="0"/>
+  </entity1127>
+  <entity1000 ctype="Bro1" r="4" c="4">
+    <round1 state="LIVE" hp="180" posr="4" posc="5" dr="0" dc="1"/>
+    <round2 state="LIVE" hp="180" posr="4" posc="5" dr="0" dc="0"/>
+    <round3 state="LIVE" hp="180" posr="5" posc="7" dr="1" dc="2"/>
+    <round4 state="LIVE" hp="166" posr="5" posc="7" dr="0" dc="0"/>
+    <round5 state="LIVE" hp="166" posr="7" posc="8" dr="2" dc="1">
+      <target tid="2090"/>
+      <target tid="2021"/>
+    </round5>
+    <round6 state="LIVE" hp="122" posr="7" posc="8" dr="0" dc="0"/>
+    <round7 state="LIVE" hp="105" posr="6" posc="7" dr="-1" dc="-1">
+      <target tid="2074"/>
+      <target tid="2021"/>
+    </round7>
+    <round8 state="LIVE" hp="79" posr="6" posc="7" dr="0" dc="0"/>
+    <round9 state="LIVE" hp="79" posr="5" posc="10" dr="-1" dc="3">
+      <target tid="2092"/>
+      <target tid="2021"/>
+    </round9>
+    <round10 state="LIVE" hp="53" posr="5" posc="10" dr="0" dc="0"/>
+    <round11 state="LIVE" hp="53" posr="8" posc="11" dr="3" dc="1">
+      <target tid="2056"/>
+      <target tid="2005"/>
+    </round11>
+    <round12 state="LIVE" hp="1" posr="8" posc="11" dr="0" dc="0"/>
+    <round13 state="LIVE" hp="1" posr="10" posc="12" dr="2" dc="1">
+      <target tid="2149"/>
+      <target tid="2056"/>
+    </round13>
+    <round14 state="DEAD" hp="0" posr="10" posc="12" dr="0" dc="0"/>
+    <round15 state="DEAD" hp="0" posr="10" posc="12" dr="0" dc="0"/>
+    <round16 state="DEAD" hp="0" posr="10" posc="12" dr="0" dc="0"/>
+    <round17 state="DEAD" hp="0" posr="10" posc="12" dr="0" dc="0"/>
+    <round18 state="DEAD" hp="0" posr="10" posc="12" dr="0" dc="0"/>
+    <round19 state="DEAD" hp="0" posr="10" posc="12" dr="0" dc="0"/>
+    <round20 state="DEAD" hp="0" posr="10" posc="12" dr="0" dc="0"/>
+    <round21 state="DEAD" hp="0" posr="10" posc="12" dr="0" dc="0"/>
+    <round22 state="DEAD" hp="0" posr="10" posc="12" dr="0" dc="0"/>
+    <round23 state="DEAD" hp="0" posr="10" posc="12" dr="0" dc="0"/>
+    <round24 state="DEAD" hp="0" posr="10" posc="12" dr="0" dc="0"/>
+    <round25 state="DEAD" hp="0" posr="10" posc="12" dr="0" dc="0"/>
+    <round26 state="DEAD" hp="0" posr="10" posc="12" dr="0" dc="0"/>
+    <round27 state="DEAD" hp="0" posr="10" posc="12" dr="0" dc="0"/>
+    <round28 state="DEAD" hp="0" posr="10" posc="12" dr="0" dc="0"/>
+    <round29 state="DEAD" hp="0" posr="10" posc="12" dr="0" dc="0"/>
+    <round30 state="DEAD" hp="0" posr="10" posc="12" dr="0" dc="0"/>
+    <round31 state="DEAD" hp="0" posr="10" posc="12" dr="0" dc="0"/>
+    <round32 state="DEAD" hp="0" posr="10" posc="12" dr="0" dc="0"/>
+    <round33 state="DEAD" hp="0" posr="10" posc="12" dr="0" dc="0"/>
+    <round34 state="DEAD" hp="0" posr="10" posc="12" dr="0" dc="0"/>
+    <round35 state="DEAD" hp="0" posr="10" posc="12" dr="0" dc="0"/>
+    <round36 state="DEAD" hp="0" posr="10" posc="12" dr="0" dc="0"/>
+    <round37 state="DEAD" hp="0" posr="10" posc="12" dr="0" dc="0"/>
+    <round38 state="DEAD" hp="0" posr="10" posc="12" dr="0" dc="0"/>
+    <round39 state="DEAD" hp="0" posr="10" posc="12" dr="0" dc="0"/>
+    <round40 state="DEAD" hp="0" posr="10" posc="12" dr="0" dc="0"/>
+    <round41 state="DEAD" hp="0" posr="10" posc="12" dr="0" dc="0"/>
+  </entity1000>
+  <entity2090 ctype="Mons" r="8" c="10">
+    <round1 state="LIVE" hp="120" posr="8" posc="10" dr="0" dc="0"/>
+    <round2 state="LIVE" hp="120" posr="8" posc="9" dr="0" dc="-1"/>
+    <round3 state="LIVE" hp="105" posr="8" posc="9" dr="0" dc="0"/>
+    <round4 state="LIVE" hp="105" posr="6" posc="6" dr="-2" dc="-3">
+      <target tid="1091"/>
+      <target tid="1127"/>
+    </round4>
+    <round5 state="LIVE" hp="75" posr="6" posc="6" dr="0" dc="0"/>
+    <round6 state="LIVE" hp="85" posr="9" posc="5" dr="3" dc="-1">
+      <target tid="1091"/>
+      <target tid="1000"/>
+    </round6>
+    <round7 state="LIVE" hp="85" posr="9" posc="5" dr="0" dc="0"/>
+    <round8 state="LIVE" hp="95" posr="10" posc="4" dr="1" dc="-1">
+      <target tid="1072"/>
+      <target tid="1108"/>
+    </round8>
+    <round9 state="LIVE" hp="80" posr="10" posc="4" dr="0" dc="0"/>
+    <round10 state="LIVE" hp="80" posr="12" posc="5" dr="2" dc="1">
+      <target tid="1108"/>
+    </round10>
+    <round11 state="LIVE" hp="50" posr="12" posc="5" dr="0" dc="0"/>
+    <round12 state="LIVE" hp="50" posr="10" posc="2" dr="-2" dc="-3"/>
+    <round13 state="DEAD" hp="0" posr="10" posc="2" dr="0" dc="0"/>
+    <round14 state="DEAD" hp="0" posr="10" posc="2" dr="0" dc="0"/>
+    <round15 state="DEAD" hp="0" posr="10" posc="2" dr="0" dc="0"/>
+    <round16 state="DEAD" hp="0" posr="10" posc="2" dr="0" dc="0"/>
+    <round17 state="DEAD" hp="0" posr="10" posc="2" dr="0" dc="0"/>
+    <round18 state="DEAD" hp="0" posr="10" posc="2" dr="0" dc="0"/>
+    <round19 state="DEAD" hp="0" posr="10" posc="2" dr="0" dc="0"/>
+    <round20 state="DEAD" hp="0" posr="10" posc="2" dr="0" dc="0"/>
+    <round21 state="DEAD" hp="0" posr="10" posc="2" dr="0" dc="0"/>
+    <round22 state="DEAD" hp="0" posr="10" posc="2" dr="0" dc="0"/>
+    <round23 state="DEAD" hp="0" posr="10" posc="2" dr="0" dc="0"/>
+    <round24 state="DEAD" hp="0" posr="10" posc="2" dr="0" dc="0"/>
+    <round25 state="DEAD" hp="0" posr="10" posc="2" dr="0" dc="0"/>
+    <round26 state="DEAD" hp="0" posr="10" posc="2" dr="0" dc="0"/>
+    <round27 state="DEAD" hp="0" posr="10" posc="2" dr="0" dc="0"/>
+    <round28 state="DEAD" hp="0" posr="10" posc="2" dr="0" dc="0"/>
+    <round29 state="DEAD" hp="0" posr="10" posc="2" dr="0" dc="0"/>
+    <round30 state="DEAD" hp="0" posr="10" posc="2" dr="0" dc="0"/>
+    <round31 state="DEAD" hp="0" posr="10" posc="2" dr="0" dc="0"/>
+    <round32 state="DEAD" hp="0" posr="10" posc="2" dr="0" dc="0"/>
+    <round33 state="DEAD" hp="0" posr="10" posc="2" dr="0" dc="0"/>
+    <round34 state="DEAD" hp="0" posr="10" posc="2" dr="0" dc="0"/>
+    <round35 state="DEAD" hp="0" posr="10" posc="2" dr="0" dc="0"/>
+    <round36 state="DEAD" hp="0" posr="10" posc="2" dr="0" dc="0"/>
+    <round37 state="DEAD" hp="0" posr="10" posc="2" dr="0" dc="0"/>
+    <round38 state="DEAD" hp="0" posr="10" posc="2" dr="0" dc="0"/>
+    <round39 state="DEAD" hp="0" posr="10" posc="2" dr="0" dc="0"/>
+    <round40 state="DEAD" hp="0" posr="10" posc="2" dr="0" dc="0"/>
+    <round41 state="DEAD" hp="0" posr="10" posc="2" dr="0" dc="0"/>
+  </entity2090>
+  <entity2091 ctype="Mons" r="8" c="11">
+    <round1 state="LIVE" hp="120" posr="8" posc="11" dr="0" dc="0"/>
+    <round2 state="LIVE" hp="120" posr="8" posc="10" dr="0" dc="-1"/>
+    <round3 state="LIVE" hp="120" posr="8" posc="10" dr="0" dc="0"/>
+    <round4 state="LIVE" hp="120" posr="10" posc="9" dr="2" dc="-1">
+      <target tid="1072"/>
+      <target tid="1091"/>
+    </round4>
+    <round5 state="LIVE" hp="110" posr="10" posc="9" dr="0" dc="0"/>
+    <round6 state="LIVE" hp="120" posr="10" posc="7" dr="0" dc="-2">
+      <target tid="1072"/>
+      <target tid="1127"/>
+    </round6>
+    <round7 state="LIVE" hp="110" posr="10" posc="7" dr="0" dc="0"/>
+    <round8 state="LIVE" hp="120" posr="10" posc="5" dr="0" dc="-2">
+      <target tid="1072"/>
+      <target tid="1127"/>
+    </round8>
+    <round9 state="LIVE" hp="120" posr="10" posc="5" dr="0" dc="0"/>
+    <round10 state="LIVE" hp="120" posr="11" posc="5" dr="1" dc="0">
+      <target tid="1108"/>
+    </round10>
+    <round11 state="LIVE" hp="120" posr="11" posc="5" dr="0" dc="0"/>
+    <round12 state="LIVE" hp="120" posr="9" posc="3" dr="-2" dc="-2"/>
+    <round13 state="LIVE" hp="90" posr="9" posc="3" dr="0" dc="0"/>
+    <round14 state="LIVE" hp="90" posr="9" posc="4" dr="0" dc="1">
+      <target tid="1091"/>
+    </round14>
+    <round15 state="LIVE" hp="10" posr="9" posc="4" dr="0" dc="0"/>
+    <round16 state="LIVE" hp="10" posr="11" posc="6" dr="2" dc="2">
+      <target tid="1091"/>
+    </round16>
+    <round17 state="DEAD" hp="0" posr="11" posc="6" dr="0" dc="0"/>
+    <round18 state="DEAD" hp="0" posr="11" posc="6" dr="0" dc="0"/>
+    <round19 state="DEAD" hp="0" posr="11" posc="6" dr="0" dc="0"/>
+    <round20 state="DEAD" hp="0" posr="11" posc="6" dr="0" dc="0"/>
+    <round21 state="DEAD" hp="0" posr="11" posc="6" dr="0" dc="0"/>
+    <round22 state="DEAD" hp="0" posr="11" posc="6" dr="0" dc="0"/>
+    <round23 state="DEAD" hp="0" posr="11" posc="6" dr="0" dc="0"/>
+    <round24 state="DEAD" hp="0" posr="11" posc="6" dr="0" dc="0"/>
+    <round25 state="DEAD" hp="0" posr="11" posc="6" dr="0" dc="0"/>
+    <round26 state="DEAD" hp="0" posr="11" posc="6" dr="0" dc="0"/>
+    <round27 state="DEAD" hp="0" posr="11" posc="6" dr="0" dc="0"/>
+    <round28 state="DEAD" hp="0" posr="11" posc="6" dr="0" dc="0"/>
+    <round29 state="DEAD" hp="0" posr="11" posc="6" dr="0" dc="0"/>
+    <round30 state="DEAD" hp="0" posr="11" posc="6" dr="0" dc="0"/>
+    <round31 state="DEAD" hp="0" posr="11" posc="6" dr="0" dc="0"/>
+    <round32 state="DEAD" hp="0" posr="11" posc="6" dr="0" dc="0"/>
+    <round33 state="DEAD" hp="0" posr="11" posc="6" dr="0" dc="0"/>
+    <round34 state="DEAD" hp="0" posr="11" posc="6" dr="0" dc="0"/>
+    <round35 state="DEAD" hp="0" posr="11" posc="6" dr="0" dc="0"/>
+    <round36 state="DEAD" hp="0" posr="11" posc="6" dr="0" dc="0"/>
+    <round37 state="DEAD" hp="0" posr="11" posc="6" dr="0" dc="0"/>
+    <round38 state="DEAD" hp="0" posr="11" posc="6" dr="0" dc="0"/>
+    <round39 state="DEAD" hp="0" posr="11" posc="6" dr="0" dc="0"/>
+    <round40 state="DEAD" hp="0" posr="11" posc="6" dr="0" dc="0"/>
+    <round41 state="DEAD" hp="0" posr="11" posc="6" dr="0" dc="0"/>
+  </entity2091>
+  <entity2092 ctype="Mons" r="8" c="12">
+    <round1 state="LIVE" hp="120" posr="8" posc="12" dr="0" dc="0"/>
+    <round2 state="LIVE" hp="120" posr="8" posc="11" dr="0" dc="-1"/>
+    <round3 state="LIVE" hp="120" posr="8" posc="11" dr="0" dc="0"/>
+    <round4 state="LIVE" hp="120" posr="7" posc="10" dr="-1" dc="-1"/>
+    <round5 state="LIVE" hp="120" posr="7" posc="10" dr="0" dc="0"/>
+    <round6 state="LIVE" hp="120" posr="5" posc="9" dr="-2" dc="-1">
+      <target tid="1072"/>
+      <target tid="1000"/>
+    </round6>
+    <round7 state="LIVE" hp="120" posr="5" posc="9" dr="0" dc="0"/>
+    <round8 state="LIVE" hp="120" posr="6" posc="8" dr="1" dc="-1">
+      <target tid="1000"/>
+    </round8>
+    <round9 state="LIVE" hp="90" posr="6" posc="8" dr="0" dc="0"/>
+    <round10 state="LIVE" hp="100" posr="7" posc="9" dr="1" dc="1">
+      <target tid="1055"/>
+      <target tid="1000"/>
+    </round10>
+    <round11 state="LIVE" hp="75" posr="7" posc="9" dr="0" dc="0"/>
+    <round12 state="LIVE" hp="85" posr="9" posc="12" dr="2" dc="3">
+      <target tid="1000"/>
+    </round12>
+    <round13 state="LIVE" hp="85" posr="9" posc="12" dr="0" dc="0"/>
+    <round14 state="LIVE" hp="95" posr="8" posc="13" dr="-1" dc="1">
+      <target tid="1072"/>
+    </round14>
+    <round15 state="LIVE" hp="55" posr="8" posc="13" dr="0" dc="0"/>
+    <round16 state="LIVE" hp="65" posr="8" posc="12" dr="0" dc="-1">
+      <target tid="1072"/>
+    </round16>
+    <round17 state="LIVE" hp="65" posr="8" posc="12" dr="0" dc="0"/>
+    <round18 state="LIVE" hp="75" posr="8" posc="9" dr="0" dc="-3"/>
+    <round19 state="LIVE" hp="65" posr="8" posc="9" dr="0" dc="0"/>
+    <round20 state="LIVE" hp="75" posr="9" posc="6" dr="1" dc="-3"/>
+    <round21 state="LIVE" hp="20" posr="9" posc="6" dr="0" dc="0"/>
+    <round22 state="LIVE" hp="30" posr="6" posc="4" dr="-3" dc="-2"/>
+    <round23 state="DEAD" hp="0" posr="6" posc="4" dr="0" dc="0"/>
+    <round24 state="DEAD" hp="0" posr="6" posc="4" dr="0" dc="0"/>
+    <round25 state="DEAD" hp="0" posr="6" posc="4" dr="0" dc="0"/>
+    <round26 state="DEAD" hp="0" posr="6" posc="4" dr="0" dc="0"/>
+    <round27 state="DEAD" hp="0" posr="6" posc="4" dr="0" dc="0"/>
+    <round28 state="DEAD" hp="0" posr="6" posc="4" dr="0" dc="0"/>
+    <round29 state="DEAD" hp="0" posr="6" posc="4" dr="0" dc="0"/>
+    <round30 state="DEAD" hp="0" posr="6" posc="4" dr="0" dc="0"/>
+    <round31 state="DEAD" hp="0" posr="6" posc="4" dr="0" dc="0"/>
+    <round32 state="DEAD" hp="0" posr="6" posc="4" dr="0" dc="0"/>
+    <round33 state="DEAD" hp="0" posr="6" posc="4" dr="0" dc="0"/>
+    <round34 state="DEAD" hp="0" posr="6" posc="4" dr="0" dc="0"/>
+    <round35 state="DEAD" hp="0" posr="6" posc="4" dr="0" dc="0"/>
+    <round36 state="DEAD" hp="0" posr="6" posc="4" dr="0" dc="0"/>
+    <round37 state="DEAD" hp="0" posr="6" posc="4" dr="0" dc="0"/>
+    <round38 state="DEAD" hp="0" posr="6" posc="4" dr="0" dc="0"/>
+    <round39 state="DEAD" hp="0" posr="6" posc="4" dr="0" dc="0"/>
+    <round40 state="DEAD" hp="0" posr="6" posc="4" dr="0" dc="0"/>
+    <round41 state="DEAD" hp="0" posr="6" posc="4" dr="0" dc="0"/>
+  </entity2092>
+  <entity1072 ctype="Bro3" r="8" c="4">
+    <round1 state="LIVE" hp="150" posr="8" posc="5" dr="0" dc="1"/>
+    <round2 state="LIVE" hp="150" posr="8" posc="5" dr="0" dc="0"/>
+    <round3 state="LIVE" hp="150" posr="7" posc="8" dr="-1" dc="3"/>
+    <round4 state="LIVE" hp="144" posr="7" posc="8" dr="0" dc="0"/>
+    <round5 state="LIVE" hp="144" posr="9" posc="8" dr="2" dc="0"/>
+    <round6 state="LIVE" hp="114" posr="9" posc="8" dr="0" dc="0"/>
+    <round7 state="LIVE" hp="105" posr="11" posc="7" dr="2" dc="-1">
+      <target tid="2149"/>
+    </round7>
+    <round8 state="LIVE" hp="63" posr="11" posc="7" dr="0" dc="0"/>
+    <round9 state="LIVE" hp="63" posr="12" posc="8" dr="1" dc="1">
+      <target tid="2072"/>
+    </round9>
+    <round10 state="LIVE" hp="51" posr="12" posc="8" dr="0" dc="0"/>
+    <round11 state="LIVE" hp="51" posr="11" posc="11" dr="-1" dc="3"/>
+    <round12 state="LIVE" hp="37" posr="11" posc="11" dr="0" dc="0"/>
+    <round13 state="LIVE" hp="37" posr="8" posc="12" dr="-3" dc="1"/>
+    <round14 state="LIVE" hp="5" posr="8" posc="12" dr="0" dc="0"/>
+    <round15 state="LIVE" hp="5" posr="9" posc="13" dr="1" dc="1">
+      <target tid="2092"/>
+    </round15>
+    <round16 state="DEAD" hp="0" posr="9" posc="13" dr="0" dc="0"/>
+    <round17 state="DEAD" hp="0" posr="9" posc="13" dr="0" dc="0"/>
+    <round18 state="DEAD" hp="0" posr="9" posc="13" dr="0" dc="0"/>
+    <round19 state="DEAD" hp="0" posr="9" posc="13" dr="0" dc="0"/>
+    <round20 state="DEAD" hp="0" posr="9" posc="13" dr="0" dc="0"/>
+    <round21 state="DEAD" hp="0" posr="9" posc="13" dr="0" dc="0"/>
+    <round22 state="DEAD" hp="0" posr="9" posc="13" dr="0" dc="0"/>
+    <round23 state="DEAD" hp="0" posr="9" posc="13" dr="0" dc="0"/>
+    <round24 state="DEAD" hp="0" posr="9" posc="13" dr="0" dc="0"/>
+    <round25 state="DEAD" hp="0" posr="9" posc="13" dr="0" dc="0"/>
+    <round26 state="DEAD" hp="0" posr="9" posc="13" dr="0" dc="0"/>
+    <round27 state="DEAD" hp="0" posr="9" posc="13" dr="0" dc="0"/>
+    <round28 state="DEAD" hp="0" posr="9" posc="13" dr="0" dc="0"/>
+    <round29 state="DEAD" hp="0" posr="9" posc="13" dr="0" dc="0"/>
+    <round30 state="DEAD" hp="0" posr="9" posc="13" dr="0" dc="0"/>
+    <round31 state="DEAD" hp="0" posr="9" posc="13" dr="0" dc="0"/>
+    <round32 state="DEAD" hp="0" posr="9" posc="13" dr="0" dc="0"/>
+    <round33 state="DEAD" hp="0" posr="9" posc="13" dr="0" dc="0"/>
+    <round34 state="DEAD" hp="0" posr="9" posc="13" dr="0" dc="0"/>
+    <round35 state="DEAD" hp="0" posr="9" posc="13" dr="0" dc="0"/>
+    <round36 state="DEAD" hp="0" posr="9" posc="13" dr="0" dc="0"/>
+    <round37 state="DEAD" hp="0" posr="9" posc="13" dr="0" dc="0"/>
+    <round38 state="DEAD" hp="0" posr="9" posc="13" dr="0" dc="0"/>
+    <round39 state="DEAD" hp="0" posr="9" posc="13" dr="0" dc="0"/>
+    <round40 state="DEAD" hp="0" posr="9" posc="13" dr="0" dc="0"/>
+    <round41 state="DEAD" hp="0" posr="9" posc="13" dr="0" dc="0"/>
+  </entity1072>
+  <entity2038 ctype="Mons" r="5" c="12">
+    <round1 state="LIVE" hp="120" posr="5" posc="12" dr="0" dc="0"/>
+    <round2 state="LIVE" hp="120" posr="5" posc="11" dr="0" dc="-1"/>
+    <round3 state="LIVE" hp="120" posr="5" posc="11" dr="0" dc="0"/>
+    <round4 state="LIVE" hp="120" posr="6" posc="10" dr="1" dc="-1">
+      <target tid="1055"/>
+    </round4>
+    <round5 state="LIVE" hp="120" posr="6" posc="10" dr="0" dc="0"/>
+    <round6 state="LIVE" hp="120" posr="7" posc="10" dr="1" dc="0">
+      <target tid="1000"/>
+    </round6>
+    <round7 state="LIVE" hp="120" posr="7" posc="10" dr="0" dc="0"/>
+    <round8 state="LIVE" hp="120" posr="9" posc="13" dr="2" dc="3"/>
+    <round9 state="LIVE" hp="120" posr="9" posc="13" dr="0" dc="0"/>
+    <round10 state="LIVE" hp="120" posr="7" posc="10" dr="-2" dc="-3"/>
+    <round11 state="LIVE" hp="105" posr="7" posc="10" dr="0" dc="0"/>
+    <round12 state="LIVE" hp="115" posr="8" posc="9" dr="1" dc="-1">
+      <target tid="1000"/>
+    </round12>
+    <round13 state="LIVE" hp="115" posr="8" posc="9" dr="0" dc="0"/>
+    <round14 state="LIVE" hp="120" posr="7" posc="10" dr="-1" dc="1"/>
+    <round15 state="LIVE" hp="110" posr="7" posc="10" dr="0" dc="0"/>
+    <round16 state="LIVE" hp="110" posr="10" posc="11" dr="3" dc="1"/>
+    <round17 state="LIVE" hp="110" posr="10" posc="11" dr="0" dc="0"/>
+    <round18 state="LIVE" hp="120" posr="7" posc="8" dr="-3" dc="-3"/>
+    <round19 state="LIVE" hp="95" posr="7" posc="8" dr="0" dc="0"/>
+    <round20 state="LIVE" hp="105" posr="9" posc="5" dr="2" dc="-3"/>
+    <round21 state="LIVE" hp="80" posr="9" posc="5" dr="0" dc="0"/>
+    <round22 state="LIVE" hp="90" posr="6" posc="2" dr="-3" dc="-3"/>
+    <round23 state="LIVE" hp="65" posr="6" posc="2" dr="0" dc="0"/>
+    <round24 state="LIVE" hp="75" posr="5" posc="2" dr="-1" dc="0">
+      <target tid="1019"/>
+    </round24>
+    <round25 state="LIVE" hp="50" posr="5" posc="2" dr="0" dc="0"/>
+    <round26 state="LIVE" hp="60" posr="2" posc="0" dr="-3" dc="-2">
+      <target tid="1019"/>
+    </round26>
+    <round27 state="LIVE" hp="35" posr="2" posc="0" dr="0" dc="0"/>
+    <round28 state="LIVE" hp="35" posr="2" posc="3" dr="0" dc="3">
+      <target tid="1036"/>
+    </round28>
+    <round29 state="LIVE" hp="25" posr="2" posc="3" dr="0" dc="0"/>
+    <round30 state="LIVE" hp="25" posr="1" posc="4" dr="-1" dc="1">
+      <target tid="1036"/>
+    </round30>
+    <round31 state="LIVE" hp="25" posr="1" posc="4" dr="0" dc="0"/>
+    <round32 state="LIVE" hp="25" posr="4" posc="1" dr="3" dc="-3"/>
+    <round33 state="DEAD" hp="0" posr="4" posc="1" dr="0" dc="0"/>
+    <round34 state="DEAD" hp="0" posr="4" posc="1" dr="0" dc="0"/>
+    <round35 state="DEAD" hp="0" posr="4" posc="1" dr="0" dc="0"/>
+    <round36 state="DEAD" hp="0" posr="4" posc="1" dr="0" dc="0"/>
+    <round37 state="DEAD" hp="0" posr="4" posc="1" dr="0" dc="0"/>
+    <round38 state="DEAD" hp="0" posr="4" posc="1" dr="0" dc="0"/>
+    <round39 state="DEAD" hp="0" posr="4" posc="1" dr="0" dc="0"/>
+    <round40 state="DEAD" hp="0" posr="4" posc="1" dr="0" dc="0"/>
+    <round41 state="DEAD" hp="0" posr="4" posc="1" dr="0" dc="0"/>
+  </entity2038>
+  <entity2039 ctype="Mons" r="5" c="13">
+    <round1 state="LIVE" hp="120" posr="5" posc="13" dr="0" dc="0"/>
+    <round2 state="LIVE" hp="120" posr="5" posc="12" dr="0" dc="-1"/>
+    <round3 state="LIVE" hp="120" posr="5" posc="12" dr="0" dc="0"/>
+    <round4 state="LIVE" hp="120" posr="4" posc="10" dr="-1" dc="-2">
+      <target tid="1055"/>
+    </round4>
+    <round5 state="LIVE" hp="120" posr="4" posc="10" dr="0" dc="0"/>
+    <round6 state="LIVE" hp="120" posr="7" posc="12" dr="3" dc="2"/>
+    <round7 state="LIVE" hp="120" posr="7" posc="12" dr="0" dc="0"/>
+    <round8 state="LIVE" hp="120" posr="5" posc="15" dr="-2" dc="3">
+      <target tid="1055"/>
+    </round8>
+    <round9 state="LIVE" hp="120" posr="5" posc="15" dr="0" dc="0"/>
+    <round10 state="LIVE" hp="120" posr="3" posc="12" dr="-2" dc="-3"/>
+    <round11 state="LIVE" hp="120" posr="3" posc="12" dr="0" dc="0"/>
+    <round12 state="LIVE" hp="120" posr="6" posc="11" dr="3" dc="-1"/>
+    <round13 state="LIVE" hp="120" posr="6" posc="11" dr="0" dc="0"/>
+    <round14 state="LIVE" hp="120" posr="8" posc="14" dr="2" dc="3">
+      <target tid="1072"/>
+    </round14>
+    <round15 state="LIVE" hp="120" posr="8" posc="14" dr="0" dc="0"/>
+    <round16 state="LIVE" hp="120" posr="9" posc="12" dr="1" dc="-2"/>
+    <round17 state="LIVE" hp="120" posr="9" posc="12" dr="0" dc="0"/>
+    <round18 state="LIVE" hp="120" posr="9" posc="9" dr="0" dc="-3"/>
+    <round19 state="LIVE" hp="110" posr="9" posc="9" dr="0" dc="0"/>
+    <round20 state="LIVE" hp="120" posr="8" posc="6" dr="-1" dc="-3"/>
+    <round21 state="LIVE" hp="95" posr="8" posc="6" dr="0" dc="0"/>
+    <round22 state="LIVE" hp="105" posr="5" posc="4" dr="-3" dc="-2"/>
+    <round23 state="LIVE" hp="80" posr="5" posc="4" dr="0" dc="0"/>
+    <round24 state="LIVE" hp="90" posr="4" posc="3" dr="-1" dc="-1"/>
+    <round25 state="LIVE" hp="65" posr="4" posc="3" dr="0" dc="0"/>
+    <round26 state="LIVE" hp="75" posr="1" posc="3" dr="-3" dc="0">
+      <target tid="1036"/>
+    </round26>
+    <round27 state="LIVE" hp="50" posr="1" posc="3" dr="0" dc="0"/>
+    <round28 state="LIVE" hp="60" posr="2" posc="4" dr="1" dc="1">
+      <target tid="1036"/>
+    </round28>
+    <round29 state="LIVE" hp="50" posr="2" posc="4" dr="0" dc="0"/>
+    <round30 state="LIVE" hp="50" posr="5" posc="4" dr="3" dc="0">
+      <target tid="1036"/>
+    </round30>
+    <round31 state="LIVE" hp="20" posr="5" posc="4" dr="0" dc="0"/>
+    <round32 state="LIVE" hp="20" posr="8" posc="2" dr="3" dc="-2"/>
+    <round33 state="DEAD" hp="0" posr="8" posc="2" dr="0" dc="0"/>
+    <round34 state="DEAD" hp="0" posr="8" posc="2" dr="0" dc="0"/>
+    <round35 state="DEAD" hp="0" posr="8" posc="2" dr="0" dc="0"/>
+    <round36 state="DEAD" hp="0" posr="8" posc="2" dr="0" dc="0"/>
+    <round37 state="DEAD" hp="0" posr="8" posc="2" dr="0" dc="0"/>
+    <round38 state="DEAD" hp="0" posr="8" posc="2" dr="0" dc="0"/>
+    <round39 state="DEAD" hp="0" posr="8" posc="2" dr="0" dc="0"/>
+    <round40 state="DEAD" hp="0" posr="8" posc="2" dr="0" dc="0"/>
+    <round41 state="DEAD" hp="0" posr="8" posc="2" dr="0" dc="0"/>
+  </entity2039>
+  <entity1019 ctype="Bro5" r="5" c="5">
+    <round1 state="LIVE" hp="120" posr="5" posc="6" dr="0" dc="1"/>
+    <round2 state="LIVE" hp="120" posr="5" posc="6" dr="0" dc="0"/>
+    <round3 state="LIVE" hp="120" posr="6" posc="7" dr="1" dc="1">
+      <target tid="2090"/>
+      <target tid="2054"/>
+      <target tid="2072"/>
+    </round3>
+    <round4 state="LIVE" hp="120" posr="6" posc="7" dr="0" dc="0"/>
+    <round5 state="LIVE" hp="120" posr="8" posc="5" dr="2" dc="-2">
+      <target tid="2129"/>
+      <target tid="2072"/>
+      <target tid="2055"/>
+    </round5>
+    <round6 state="LIVE" hp="120" posr="8" posc="5" dr="0" dc="0"/>
+    <round7 state="LIVE" hp="104" posr="7" posc="6" dr="-1" dc="1">
+      <target tid="2149"/>
+      <target tid="2021"/>
+      <target tid="2072"/>
+    </round7>
+    <round8 state="LIVE" hp="92" posr="7" posc="6" dr="0" dc="0"/>
+    <round9 state="LIVE" hp="92" posr="5" posc="7" dr="-2" dc="1">
+      <target tid="2090"/>
+      <target tid="2021"/>
+      <target tid="2073"/>
+    </round9>
+    <round10 state="LIVE" hp="78" posr="5" posc="7" dr="0" dc="0"/>
+    <round11 state="LIVE" hp="78" posr="4" posc="6" dr="-1" dc="-1">
+      <target tid="2092"/>
+      <target tid="2038"/>
+      <target tid="2005"/>
+    </round11>
+    <round12 state="LIVE" hp="78" posr="4" posc="6" dr="0" dc="0"/>
+    <round13 state="LIVE" hp="78" posr="4" posc="5" dr="0" dc="-1">
+      <target tid="2005"/>
+    </round13>
+    <round14 state="LIVE" hp="78" posr="4" posc="5" dr="0" dc="0"/>
+    <round15 state="LIVE" hp="78" posr="6" posc="4" dr="2" dc="-1">
+      <target tid="2005"/>
+    </round15>
+    <round16 state="LIVE" hp="78" posr="6" posc="4" dr="0" dc="0"/>
+    <round17 state="LIVE" hp="51" posr="7" posc="5" dr="1" dc="1">
+      <target tid="1019"/>
+    </round17>
+    <round18 state="LIVE" hp="37" posr="7" posc="5" dr="0" dc="0"/>
+    <round19 state="LIVE" hp="37" posr="8" posc="4" dr="1" dc="-1">
+      <target tid="2110"/>
+      <target tid="2074"/>
+      <target tid="2038"/>
+    </round19>
+    <round20 state="LIVE" hp="23" posr="8" posc="4" dr="0" dc="0"/>
+    <round21 state="LIVE" hp="33" posr="7" posc="2" dr="-1" dc="-2">
+      <target tid="2092"/>
+      <target tid="2038"/>
+      <target tid="2039"/>
+    </round21>
+    <round22 state="LIVE" hp="33" posr="7" posc="2" dr="0" dc="0"/>
+    <round23 state="LIVE" hp="33" posr="5" posc="0" dr="-2" dc="-2">
+      <target tid="2110"/>
+      <target tid="2038"/>
+      <target tid="2039"/>
+    </round23>
+    <round24 state="LIVE" hp="27" posr="5" posc="0" dr="0" dc="0"/>
+    <round25 state="LIVE" hp="27" posr="4" posc="0" dr="-1" dc="0">
+      <target tid="2038"/>
+      <target tid="2039"/>
+    </round25>
+    <round26 state="LIVE" hp="21" posr="4" posc="0" dr="0" dc="0"/>
+    <round27 state="LIVE" hp="21" posr="5" posc="2" dr="1" dc="2">
+      <target tid="2111"/>
+      <target tid="2038"/>
+      <target tid="2039"/>
+    </round27>
+    <round28 state="DEAD" hp="0" posr="5" posc="2" dr="0" dc="0"/>
+    <round29 state="DEAD" hp="0" posr="5" posc="2" dr="0" dc="0"/>
+    <round30 state="DEAD" hp="0" posr="5" posc="2" dr="0" dc="0"/>
+    <round31 state="DEAD" hp="0" posr="5" posc="2" dr="0" dc="0"/>
+    <round32 state="DEAD" hp="0" posr="5" posc="2" dr="0" dc="0"/>
+    <round33 state="DEAD" hp="0" posr="5" posc="2" dr="0" dc="0"/>
+    <round34 state="DEAD" hp="0" posr="5" posc="2" dr="0" dc="0"/>
+    <round35 state="DEAD" hp="0" posr="5" posc="2" dr="0" dc="0"/>
+    <round36 state="DEAD" hp="0" posr="5" posc="2" dr="0" dc="0"/>
+    <round37 state="DEAD" hp="0" posr="5" posc="2" dr="0" dc="0"/>
+    <round38 state="DEAD" hp="0" posr="5" posc="2" dr="0" dc="0"/>
+    <round39 state="DEAD" hp="0" posr="5" posc="2" dr="0" dc="0"/>
+    <round40 state="DEAD" hp="0" posr="5" posc="2" dr="0" dc="0"/>
+    <round41 state="DEAD" hp="0" posr="5" posc="2" dr="0" dc="0"/>
+  </entity1019>
+  <entity2110 ctype="Mons" r="9" c="12">
+    <round1 state="LIVE" hp="120" posr="9" posc="12" dr="0" dc="0"/>
+    <round2 state="LIVE" hp="120" posr="9" posc="11" dr="0" dc="-1"/>
+    <round3 state="LIVE" hp="120" posr="9" posc="11" dr="0" dc="0"/>
+    <round4 state="LIVE" hp="120" posr="10" posc="8" dr="1" dc="-3"/>
+    <round5 state="LIVE" hp="110" posr="10" posc="8" dr="0" dc="0"/>
+    <round6 state="LIVE" hp="120" posr="11" posc="9" dr="1" dc="1">
+      <target tid="1072"/>
+      <target tid="1127"/>
+    </round6>
+    <round7 state="LIVE" hp="120" posr="11" posc="9" dr="0" dc="0"/>
+    <round8 state="LIVE" hp="120" posr="12" posc="7" dr="1" dc="-2">
+      <target tid="1072"/>
+      <target tid="1127"/>
+    </round8>
+    <round9 state="LIVE" hp="120" posr="12" posc="7" dr="0" dc="0"/>
+    <round10 state="LIVE" hp="120" posr="12" posc="6" dr="0" dc="-1">
+      <target tid="1072"/>
+    </round10>
+    <round11 state="LIVE" hp="120" posr="12" posc="6" dr="0" dc="0"/>
+    <round12 state="LIVE" hp="120" posr="10" posc="4" dr="-2" dc="-2"/>
+    <round13 state="LIVE" hp="120" posr="10" posc="4" dr="0" dc="0"/>
+    <round14 state="LIVE" hp="120" posr="12" posc="4" dr="2" dc="0">
+      <target tid="1091"/>
+    </round14>
+    <round15 state="LIVE" hp="90" posr="12" posc="4" dr="0" dc="0"/>
+    <round16 state="LIVE" hp="90" posr="10" posc="5" dr="-2" dc="1"/>
+    <round17 state="LIVE" hp="90" posr="10" posc="5" dr="0" dc="0"/>
+    <round18 state="LIVE" hp="100" posr="7" posc="7" dr="-3" dc="2">
+      <target tid="1091"/>
+    </round18>
+    <round19 state="LIVE" hp="85" posr="7" posc="7" dr="0" dc="0"/>
+    <round20 state="LIVE" hp="95" posr="7" posc="5" dr="0" dc="-2"/>
+    <round21 state="LIVE" hp="95" posr="7" posc="5" dr="0" dc="0"/>
+    <round22 state="LIVE" hp="105" posr="9" posc="4" dr="2" dc="-1"/>
+    <round23 state="LIVE" hp="90" posr="9" posc="4" dr="0" dc="0"/>
+    <round24 state="LIVE" hp="90" posr="11" posc="1" dr="2" dc="-3"/>
+    <round25 state="LIVE" hp="90" posr="11" posc="1" dr="0" dc="0"/>
+    <round26 state="LIVE" hp="90" posr="8" posc="1" dr="-3" dc="0"/>
+    <round27 state="LIVE" hp="90" posr="8" posc="1" dr="0" dc="0"/>
+    <round28 state="LIVE" hp="90" posr="7" posc="2" dr="-1" dc="1">
+      <target tid="1108"/>
+    </round28>
+    <round29 state="LIVE" hp="90" posr="7" posc="2" dr="0" dc="0"/>
+    <round30 state="LIVE" hp="90" posr="10" posc="1" dr="3" dc="-1">
+      <target tid="1108"/>
+    </round30>
+    <round31 state="LIVE" hp="90" posr="10" posc="1" dr="0" dc="0"/>
+    <round32 state="LIVE" hp="90" posr="11" posc="2" dr="1" dc="1">
+      <target tid="1108"/>
+    </round32>
+    <round33 state="LIVE" hp="90" posr="11" posc="2" dr="0" dc="0"/>
+    <round34 state="LIVE" hp="90" posr="9" posc="1" dr="-2" dc="-1">
+      <target tid="1108"/>
+    </round34>
+    <round35 state="LIVE" hp="60" posr="9" posc="1" dr="0" dc="0"/>
+    <round36 state="LIVE" hp="60" posr="12" posc="0" dr="3" dc="-1">
+      <target tid="1108"/>
+    </round36>
+    <round37 state="LIVE" hp="30" posr="12" posc="0" dr="0" dc="0"/>
+    <round38 state="LIVE" hp="30" posr="11" posc="2" dr="-1" dc="2">
+      <target tid="1108"/>
+    </round38>
+    <round39 state="DEAD" hp="0" posr="11" posc="2" dr="0" dc="0"/>
+    <round40 state="DEAD" hp="0" posr="11" posc="2" dr="0" dc="0"/>
+    <round41 state="DEAD" hp="0" posr="11" posc="2" dr="0" dc="0"/>
+  </entity2110>
+  <entity2111 ctype="Mons" r="9" c="13">
+    <round1 state="LIVE" hp="120" posr="9" posc="13" dr="0" dc="0"/>
+    <round2 state="LIVE" hp="120" posr="9" posc="12" dr="0" dc="-1"/>
+    <round3 state="LIVE" hp="120" posr="9" posc="12" dr="0" dc="0"/>
+    <round4 state="LIVE" hp="120" posr="8" posc="10" dr="-1" dc="-2"/>
+    <round5 state="LIVE" hp="120" posr="8" posc="10" dr="0" dc="0"/>
+    <round6 state="LIVE" hp="120" posr="9" posc="7" dr="1" dc="-3">
+      <target tid="1072"/>
+      <target tid="1000"/>
+    </round6>
+    <round7 state="LIVE" hp="120" posr="9" posc="7" dr="0" dc="0"/>
+    <round8 state="LIVE" hp="120" posr="9" posc="5" dr="0" dc="-2">
+      <target tid="1072"/>
+      <target tid="1019"/>
+    </round8>
+    <round9 state="LIVE" hp="120" posr="9" posc="5" dr="0" dc="0"/>
+    <round10 state="LIVE" hp="120" posr="8" posc="4" dr="-1" dc="-1">
+      <target tid="1091"/>
+    </round10>
+    <round11 state="LIVE" hp="80" posr="8" posc="4" dr="0" dc="0"/>
+    <round12 state="LIVE" hp="80" posr="7" posc="1" dr="-1" dc="-3">
+      <target tid="1091"/>
+    </round12>
+    <round13 state="LIVE" hp="80" posr="7" posc="1" dr="0" dc="0"/>
+    <round14 state="LIVE" hp="80" posr="10" posc="4" dr="3" dc="3"/>
+    <round15 state="LIVE" hp="80" posr="10" posc="4" dr="0" dc="0"/>
+    <round16 state="LIVE" hp="80" posr="10" posc="7" dr="0" dc="3">
+      <target tid="1091"/>
+    </round16>
+    <round17 state="LIVE" hp="80" posr="10" posc="7" dr="0" dc="0"/>
+    <round18 state="LIVE" hp="80" posr="10" posc="8" dr="0" dc="1">
+      <target tid="1091"/>
+    </round18>
+    <round19 state="LIVE" hp="80" posr="10" posc="8" dr="0" dc="0"/>
+    <round20 state="LIVE" hp="80" posr="10" posc="6" dr="0" dc="-2"/>
+    <round21 state="LIVE" hp="80" posr="10" posc="6" dr="0" dc="0"/>
+    <round22 state="LIVE" hp="90" posr="9" posc="3" dr="-1" dc="-3"/>
+    <round23 state="LIVE" hp="90" posr="9" posc="3" dr="0" dc="0"/>
+    <round24 state="LIVE" hp="90" posr="9" posc="2" dr="0" dc="-1"/>
+    <round25 state="LIVE" hp="90" posr="9" posc="2" dr="0" dc="0"/>
+    <round26 state="LIVE" hp="100" posr="6" posc="2" dr="-3" dc="0">
+      <target tid="1108"/>
+    </round26>
+    <round27 state="LIVE" hp="85" posr="6" posc="2" dr="0" dc="0"/>
+    <round28 state="LIVE" hp="95" posr="4" posc="2" dr="-2" dc="0">
+      <target tid="1108"/>
+      <target tid="1019"/>
+    </round28>
+    <round29 state="LIVE" hp="95" posr="4" posc="2" dr="0" dc="0"/>
+    <round30 state="LIVE" hp="95" posr="1" posc="5" dr="-3" dc="3">
+      <target tid="1036"/>
+    </round30>
+    <round31 state="LIVE" hp="95" posr="1" posc="5" dr="0" dc="0"/>
+    <round32 state="LIVE" hp="95" posr="4" posc="2" dr="3" dc="-3"/>
+    <round33 state="LIVE" hp="95" posr="4" posc="2" dr="0" dc="0"/>
+    <round34 state="LIVE" hp="95" posr="7" posc="0" dr="3" dc="-2"/>
+    <round35 state="LIVE" hp="65" posr="7" posc="0" dr="0" dc="0"/>
+    <round36 state="LIVE" hp="65" posr="10" posc="0" dr="3" dc="0"/>
+    <round37 state="LIVE" hp="35" posr="10" posc="0" dr="0" dc="0"/>
+    <round38 state="LIVE" hp="35" posr="13" posc="1" dr="3" dc="1">
+      <target tid="1108"/>
+    </round38>
+    <round39 state="LIVE" hp="5" posr="13" posc="1" dr="0" dc="0"/>
+    <round40 state="LIVE" hp="5" posr="12" posc="0" dr="-1" dc="-1">
+      <target tid="1108"/>
+    </round40>
+    <round41 state="DEAD" hp="0" posr="12" posc="0" dr="0" dc="0"/>
+  </entity2111>
+</records>
